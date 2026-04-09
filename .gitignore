@@ -1,0 +1,19 @@
+# Geheimnisse und API-Keys
+.env
+
+# Python-spezifisch
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Data Science & Notebooks
+.ipynb_checkpoints
+.DS_Store
+
+# Große Datensätze (Beispielhaft)
+*.csv
+*.json
+!example.csv  # Falls du eine kleine Beispieldatei behalten willst
