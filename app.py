@@ -161,7 +161,7 @@ def render_investor_module():
         # ── Aktuelle Marktsignale als Ergänzung zum Investor-Tab ──
         st.divider()
         st.write("### 📰 Aktuelle Marktsignale (Top-News)")
-        st.caption("Die neuesten Schlagzeilen aus dem News-Monitor – passend zu deinen Investoren-Leads.")
+        st.caption("Die relevantesten Schlagzeilen aus dem News-Monitor – passend zu den Investoren-Leads.")
 
         news_df = load_news_data()
         if news_df is not None:
