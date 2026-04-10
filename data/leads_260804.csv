@@ -1,0 +1,874 @@
+﻿search_keyword,company_number,name,type,status,date_of_creation,address,gesellschaftszweck,sic_codes,sic_beschreibungen,sic_relevant,relevanz_score,screening_datum
+SIC:64303,13202031,MINING-CRYPTO LTD,ltd,active,2021-02-15,"50 Nevett Street, Preston, PR1 4RD",,58290|64303,Activities of venture and development capital companies,True,80,2026-04-08
+SIC:66120,11378068,CORE COMMODITIES LTD,ltd,active,2018-05-23,"Unit A, Abbotts Wharf, London, E14 6JL",,66120,Security and commodity contracts brokerage,True,55,2026-04-08
+SIC:64999,NI641700,SILVERVALE DEVELOPMENTS (NI) LIMITED,ltd,active,2016-10-25,"10 Regina Park, Newry, BT35 8HX",,64999,Financial Intermediation,True,55,2026-04-08
+SIC:70221,11562277,SILVER BIRCHES LIMITED,ltd,active,2018-09-11,"Silver Birches, Dursley, GL11 6AQ",,70221,Financial Management,True,55,2026-04-08
+SIC:66120,11394440,POPPY COMMODITIES LIMITED,ltd,active,2018-06-04,"1 Royal Terrace, Southend On Sea, SS1 1EA",,66120,Security and commodity contracts brokerage,True,55,2026-04-08
+SIC:64303,08817319,KPMG ACCELERIS LIMITED,ltd,active,2013-12-17,"15 Canada Square, London, E14 5GL",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:66120,13379005,BXCHGROUP LIMITED,ltd,active,2021-05-06,"13379005 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,64205|64999|66110|66120,Activities of financial services holding companies|Financial Intermediation|Security and commodity contracts brokerage,True,50,2026-04-08
+SIC:64205,08033897,ABEF HOLDINGS LIMITED,ltd,active,2012-04-17,"11 Regent Street, York, YO42 2QN",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13587716,FOREST MORTGAGE BROKERS LTD,ltd,active,2021-08-26,"125 Sebert Road, London, E7 0NL",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10752535,EC MARKETS CAPITAL LTD,ltd,active,2017-05-03,"3rd Floor 30 City Road, London, EC1Y 2AY",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10177379,STAFFORD INFRASTRUCTURE CO-INVESTMENT I GP LIMITED,ltd,active,2016-05-12,"Level 6 Duo, London, EC2M 4RB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC500975,TWM GROUP LIMITED,ltd,active,2015-03-19,"First Floor, 34 West George Street, Glasgow, G2 1DA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15576599,ELEMENTAL TERRA CAPITAL LTD,ltd,active,2024-03-19,"71-75 Shelton Street, London, WC2H 9JQ",,64205|64301|64304|66300,Activities of financial services holding companies|Activities of investment trusts|Fund management activities,True,50,2026-04-08
+SIC:64205,SC742971,PKS HOLDINGS LTD,ltd,active,2022-08-31,"First Floor, The Connal Building 34 West George St, Glasgow, G2 1DA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12172685,LAPITHUS HOLDINGS LIMITED,ltd,active,2019-08-23,"1 Soho Place, London, W1D 3BG",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12142883,SRA CAPITAL LTD,ltd,active,2019-08-07,"7 Milk Churn Way, Hertfordshire, SG3 6FF",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11285790,PACIFIC WEALTH MANAGEMENT LIMITED,ltd,active,2018-04-03,"74 Wigmore Street, London, W1U 2SQ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13437058,PAYSAFE FINANCE PLC,plc,active,2021-06-03,"2 Gresham Street, London, EC2V 7AD",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14315552,HEDIN FINANCIAL SERVICES LTD,ltd,active,2022-08-24,"Mercedes Benz Of Brooklands, Weybridge, KT13 0SL",,45111|45112|45200|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14877936,BFAJB HOLDINGS LTD,ltd,active,2023-05-18,"Europa House, Bury, BL9 5BT",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64303,11347932,EUCO LTD,ltd,active,2018-05-06,"C/O 1-2-1 Taxaccountants Room G38, The Business & Technology Centre, Stevenage, SG1 2DX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,00255691,WESTPOOL INVESTMENT TRUST PUBLIC LIMITED COMPANY,plc,active,1931-04-13,"3 Bromley Place, London, W1T 6DB",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,08565346,ASHRIDGE CAPITAL (NOMINEE) LIMITED,ltd,active,2013-06-11,"Ashridge House Golf Club Road, Little Gaddesden, HP4 1LY",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10807696,EAST WEST GLOBAL CAPITAL LIMITED,ltd,active,2017-06-07,"31 Halford Road, London, SW6 1JZ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,15764768,CAMBRIDGE STOCK EXCHANGE PROJECT LTD,ltd,active,2024-06-06,"Hauxton House Mill Lane, Cambridge, CB22 5HX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,07258267,ASTON WEALTH MANAGEMENT LIMITED,ltd,active,2010-05-19,"3a Cleveland Gardens, London, SW13 0AG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12160317,EQUALITY FINANCE LTD,ltd,active,2019-08-16,"12 Sheridan Road, Watford, WD19 4QL",,64303|64922|64999|65110,Activities of venture and development capital companies|Financial Intermediation,True,50,2026-04-08
+SIC:64303,04995708,LION PRUDENTIAL LTD,ltd,active,2003-12-15,"11 Church Road, Great Bookham, KT23 3PB",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12609211,PSILOCYBIN CAPITAL LTD,ltd,active,2020-05-18,"Luckmans Accountants, Coventry, CV5 6UB",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11518954,OTTO TALENTI LTD,ltd,active,2018-08-15,"Unit 1, Gate Farm High Street, Chippenham, SN15 4RE",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11348252,HS INVESTMENTS EU3 GP LIMITED,ltd,active,2018-05-07,"2 Soho Place, London, W1D 3BG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,06867244,BEIA CAPITAL LIMITED,ltd,active,2009-04-02,"Windover House, Salisbury, SP1 2DR",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,05443353,RF EUROPE LIMITED,ltd,active,2005-05-04,"1 Rose Cottage, Witney, OX29 9PX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11994632,RIVER EVOLUTION PARTNERS LTD,ltd,active,2019-05-14,"1st Floor Sackville House, London, EC3M 6BL",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,15733905,AZUR TRADES AND CONSULTATIONS LTD,ltd,active,2024-05-22,"20 Wenlock Road, London, N1 7GU",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,SC672765,R BROWN INVESTMENTS LTD,ltd,active,2020-09-01,"2 Belmont Park, Perth, PH2 6TU",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10852744,EPISODE GP 2 MANAGEMENT LTD,ltd,active,2017-07-06,"112 - 116 New Oxford Street, London, England 112 - 116 New Oxford Street, London, WC1A 1HH",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11063029,COOL INITIATIVES LIMITED,ltd,active,2017-11-14,"C/O Tindle's Llp, Medway House Fudan Way, Stockton-On-Tees, TS17 6EN",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12005683,TOMORROW MINDS LTD,ltd,active,2019-05-20,"160 City Road, London, EC1V 2NX",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,09546676,HAB GOV STRATEGICS GLOBAL VCAG LIMITED,ltd,active,2015-04-16,"7 Bell Yard, London, WC2A 2JR",,64303|70229|71122|94990,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,10764326,MOVE VENTURES LTD,ltd,active,2017-05-10,"The Hub, Henley-On-Thames, RG9 1AY",,64303|74100,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12995248,DECENTRIS PLC,plc,active,2020-11-04,"326 Neasden Lane, London, NW10 0AD",,64209|64303|64991|70100,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,SC478867,EOS SYNDICATE MANAGEMENT LIMITED,private-limited-guarant-nsc,active,2014-05-30,"Kinburn Castle, St Andrews, KY16 9DR",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11396518,STAR BUSINESS GROWTH SOLUTIONS LIMITED,ltd,active,2018-06-04,"3 Wedderburn Close, Harrogate, HG2 7QP",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,05828402,BML GENERAL PARTNER LIMITED,ltd,active,2006-05-25,"C/O Rosetta Capital Limited, Rectory House Thame Road, Bucks, HP17 8DA",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,15754819,EMBRYŌNIC STUDIO LIMITED,ltd,active,2024-06-01,"128 City Road, London, EC1V 2NX",,62020|62090|64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,12033250,CREATIVE GROWTH FINANCE LIMITED,ltd,active,2019-06-05,"Tomorrow Building, 130 Broadway Suite 7, 2nd Floor, Salford, M50 2AB",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12654224,ZAHEDI CAPITAL LIMITED,ltd,active,2020-06-08,"20-22 Wenlock Road, London, N1 7GU",,64303|68209,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13438944,POWER SECURE CAPITAL LTD,ltd,active,2021-06-04,"6 St. Davids Square, London, E14 3WA",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12250653,DAMAN HOLDINGS LTD,ltd,active,2019-10-08,"66 Roundmead Avenue, Loughton, IG10 1PZ",,41100|55900|64303|64304,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13856337,IMPROBABLE MV LIMITED,ltd,active,2022-01-18,"10 Bishops Square, London, E1 6EG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12419518,BONA MENTE REAL ESTATE LTD,ltd,active,2020-01-22,"The Gatehouse, 2, Devonhurst Place, London, W4 4JD",,64303|68100|68320,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10960839,EDEN ROCK VENTURES LIMITED,ltd,active,2017-09-13,"6 Derby Street, London, W1J 7AD",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14306490,PLEDGE VENTURES LTD,ltd,active,2022-08-19,"Runway East, London, SE1 9RS",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13368501,NET POSITIVE LABS LTD,ltd,active,2021-04-30,"85 Great Portland Street, London, W1W 7LT",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,09349089,REDSTONE VENTURE MANAGERS LIMITED,ltd,active,2014-12-10,"2 Birch Grove, Manchester, M14 5JY",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14872133,KENNIS IS MACHT LTD,ltd,active,2023-05-16,"57 Camden Road, London, NW1 9EU",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13398059,ICEIGHTY LIMITED,ltd,active,2021-05-14,"8 Lightswood Close, Waltham Cross, EN7 6XZ",,64303|64304|68100,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11998824,BEANSPROUT COMPANY LIMITED,ltd,active,2019-05-16,"Flat 5 Hart Hill, Woking, GU21 7RG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,09034672,PULSE RETAIL ENTERPRISE LIMITED,ltd,active,2014-05-12,"17 Fareham Close, Preston, PR5 4JX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14333978,NN ACTIVE CAPITAL LTD,ltd,active,2022-09-02,"45 Waterside Lane, Sandhurst, GU47 8AD",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14124253,STARBEAM CAPITAL LTD,ltd,active,2022-05-23,"Kemp House 152-160 City Road, London, EC1V 2NX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12026847,SAEDE CAPITAL LTD,ltd,active,2019-05-31,"21 Audley Court, London, E18 2BZ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:66120,12152655,AYDEN GROUP LTD,ltd,active,2019-08-12,"12 Apex House 2 Devonshire Street North, Manchester, M12 6JQ",,64301|64302|66120,Activities of investment trusts|Security and commodity contracts brokerage,True,50,2026-04-08
+SIC:64303,10909856,EASTSIDE VENTURES LTD,ltd,active,2017-08-10,"Unit 305 Zellig Building Gibb Street, Birmingham, B9 4AA",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10408781,HOWARD CAPITAL LIMITED,ltd,active,2016-10-04,"93 Regent Street, Cambridge, CB2 1AW",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11507274,DEVONIAN CAPITAL LIMITED,ltd,active,2018-08-08,"2nd Floor, Regis House, London, EC4R 9AN",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,12240227,ONERAGTIME WOONIVERS LIMITED,ltd,active,2019-10-02,"2nd Floor, Heathmans House, London, SW6 4TJ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,01375226,VECTOR HOLDINGS LIMITED,ltd,active,1978-06-23,"2 Claridge Court, Berkhamsted, HP4 2AF",,64209|64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64301,12484718,SPES POLAND LIMITED,ltd,active,2020-02-26,"48 Melverley Road, Manchester, M9 0PG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64303,07228222,CELANDINE CAPITAL UK LTD,ltd,active,2010-04-20,"Flat 504 21 New Village Avenue, London, E14 0GL",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,14844875,TAN CAPITAL LIMITED,ltd,active,2023-05-03,"Lonsdale Gate, Tunbridge Wells, TN1 1NU",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,07567426,DAJOBE INVESTMENTS LIMITED,ltd,active,2011-03-17,"Eastwood Cottage, Bristol, BS9 4BQ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10905156,BSW CAPITAL LTD,ltd,active,2017-08-08,"Lynton House, London, WC1H 9BQ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,08073029,CHERUBIC INVESTMENTS LIMITED,ltd,active,2012-05-17,"30 Burgh Street, London, N1 8HG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,06596679,SPRINGWOOD CAPITAL PARTNERS LIMITED,ltd,active,2008-05-19,"Landmark House 17 Hanover Square, London, W1S 1HU",,07290|08110|64303|64306,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,15122501,WELLSPRING GLOBAL LTD,ltd,active,2023-09-07,"71-75 Shelton Street, London, WC2H 9JQ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11011255,IPE VENTURES INVESTMENT LIMITED,ltd,active,2017-10-12,"22 Gilbert Street, London, W1K 5HD",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14066088,CINO UN LTD,ltd,active,2022-04-25,"71-75 Shelton Street, London, WC2H 9JQ",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,09676635,SQUARE2CIRCLE LIMITED,ltd,active,2015-07-08,"Oak Apple House North Street, Sherborne, DT9 5EW",,64303|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,SC461989,ARNISTON FINANCE COMPANY LIMITED,ltd,active,2013-10-21,"C/O Anderson Strathern Llp, Edinburgh, EH3 8BP",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,11341870,PPCA HOLDCO LIMITED,ltd,active,2018-05-02,"Landywood Green, Walsall, WS6 7AL",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12599371,BVL SERVICES LTD,ltd,active,2020-05-13,"4 Duke Street Mansions, London, W1K 6JX",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,07086779,AUGMENTUM CAPITAL (GP) LIMITED,ltd,active,2009-11-25,"5th Floor 4 Chiswell Street, London, EC1Y 4UP",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64301,13237681,VARADA LAKSHMI INVESTMENTS LTD,ltd,active,2021-03-02,"Rex Buildings, Wilmslow, SK9 1HY",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,NI682624,JDHOOD INVESTMENTS LTD,ltd,active,2021-09-26,"43 Wellington Avenue, Larne, BT40 1EH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10367828,MONTAGU IV NOMINEES LIMITED,ltd,active,2016-09-09,"5th Floor 2 More London Riverside, London, SE1 2AP",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15685550,KOUASSI INVESTISSEMENTS LTD,ltd,active,2024-04-27,"128 City Road, London, EC1V 2NX",,46190|64301|98000,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11416654,JEHB CONSULTING,private-unlimited,active,2018-06-14,"8 Albert Road, Ferndown, BH22 9HE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,09727784,PELHAM NOMINEE INVESTMENT COMPANY,private-unlimited,active,2015-08-11,"Estate Office, Grimsby, DN41 8PN",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14892471,AR-RAZZAQ INVESTING LIMITED,ltd,active,2023-05-24,"259 Heywood Road, Manchester, M25 2QR",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,02894077,BAILLIE GIFFORD UK GROWTH TRUST PLC,plc,active,1994-01-28,"3 St. Helen's Place, London, EC3A 6AB",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12053578,JT INVESTMENT SOLUTIONS LTD,ltd,active,2019-06-17,"Office 010 Upper Wortley Business Centre, Leeds, LS12 4JG",,41202|64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15741445,ONLINE SCAM REPORT LTD,private-limited-guarant-nsc,active,2024-05-25,"International House, London, E16 2DQ",,64301|80300,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11178298,COPA CAPITAL,private-unlimited,active,2018-01-30,"Foresters House, Cardiff, CF11 8AS",,64301|68209,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14407344,KESTREL ETHICAL LIMITED,ltd,active,2022-10-10,"3rd Floor Horton House, Liverpool, L2 3YL",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,13762728,AFP EBT LIMITED,ltd,active,2021-11-24,"Timsons Business Centre, Kettering, NN16 8NQ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14155974,ZEUS JUICE EBT LIMITED,ltd,active,2022-06-07,"Timsons Business Centre, Kettering, NN16 8NQ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15741836,ALBATROSS JL LIMITED,ltd,active,2024-05-25,"Aston House, London, N3 1LF",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,02702785,MPI (LONDON) LIMITED,ltd,active,1992-04-01,"Level 19, The Shard, London, SE1 9SG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11362030,GMB FAM INVESTMENTS LIMITED,ltd,active,2018-05-15,"18-24 Grey Street, Newcastle Upon Tyne, NE1 6AE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11361942,KSA FAM INVESTMENTS LIMITED,ltd,active,2018-05-15,"18-24 Grey Street, Newcastle Upon Tyne, NE1 6AE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10762168,WALTHER BARNEY,private-unlimited,active,2017-05-09,"Part 4th & 5th Floor One Centenary Way, Birmingham, B3 3AY",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15771242,IVINSONS AUTOS TRUSTEES LTD,private-limited-guarant-nsc,active,2024-06-11,"7b Centurion Park, York, YO30 4WW",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15770543,TRADESEEKER LIMITED,ltd,active,2024-06-10,"37 Byron Way, Northolt, UB5 6AY",,64301|64303,Activities of investment trusts|Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64301,13204659,DEKI INVESTMENTS,private-unlimited,active,2021-02-16,"38 Tiddington Road, Stratford Upon Avon, CV37 7BA",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12935973,MAUDE-ROXBY LTD,ltd,active,2020-10-07,"11 Parrys Grove, Bristol, BS9 1TT",,64301|64303|64304|70229,Activities of investment trusts|Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64301,12911663,SIR RICHARD OLVER FAMILY INVESTMENT COMPANY LIMITED,ltd,active,2020-09-29,"50/60 Station Road, Cambridge, CB1 2JH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15785634,RICHMIND LTD,ltd,active,2024-06-18,"207 Regent Street, London, W1B 3HH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,06572285,EDGBASTON PARTNERS LIMITED,ltd,active,2008-04-22,"105 Piccadilly, London, W1J 7NJ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15452619,OPTIONS ENERGY EOT LIMITED,private-limited-guarant-nsc,active,2024-01-30,"Harlow Enterprise Hub Ff05 Kao Hookham Building, Harlow, CM20 2NQ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,00091798,BAILLIE GIFFORD CHINA GROWTH TRUST PLC,plc,active,1907-01-24,"3 St. Helen's Place, London, EC3A 6AB",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,01055384,BAILLIE GIFFORD EUROPEAN GROWTH TRUST PLC,plc,active,1972-05-22,"3 St. Helen's Place, London, EC3A 6AB",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11312949,THORNTON CAPITAL HOLDINGS LIMITED,ltd,active,2018-04-17,"5 Leys Road, Oxshott, KT22 0QE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14123316,AS & AP CONSULTANCY LTD,ltd,active,2022-05-23,"6 Sharoe Green Lane, Preston, PR2 8ED",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14876250,MSMS INVESTMENTS LTD,ltd,active,2023-05-17,"59 Thomas Road, Chorley, PR7 1JE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14659177,ZIGO LIMITED,ltd,active,2023-02-13,"Cygan House, Westbury, BA13 3GJ",,41202|64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14824050,CHEVANAUX INVESTMENT MANAGEMENT (UK) LIMITED,ltd,active,2023-04-24,"86-90 Paul Street, London, EC2A 4NE",,64301|64304,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12836460,ZASA INVESTMENTS LTD,ltd,active,2020-08-25,"11 Portland Road Edgbaston, Birmingham, B16 9HN",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,00024299,JPMORGAN GLOBAL GROWTH & INCOME PLC,plc,active,1887-04-21,"60 Victoria Embankment, London, EC4Y 0JP",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11987685,HYPERION VENTURES,private-unlimited,active,2019-05-09,"Knowsley Hall, Merseyside, L34 4AG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11988127,BIG PLANET VENTURES LTD,ltd,active,2019-05-10,"20-22 Wenlock Road, London, N1 7GU",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14884138,MOREBY WEALTH LIMITED,ltd,active,2023-05-22,"Leigh House 28-32 St. Pauls Street, Leeds, LS1 2JT",,64301|64304,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,13660435,BROOKS LAW EOT LIMITED,private-limited-guarant-nsc,active,2021-10-04,"6 Earls Court, Hull, HU4 7DY",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10328022,NTS IT SERVICES LIMITED,ltd,active,2016-08-12,"128 City Road, London, EC1V 2NX",,64301|64999|95110,Activities of investment trusts|Financial Intermediation,True,50,2026-04-08
+SIC:64301,14680072,STEPHEN RAYMOND INVESTMENTS LIMITED,ltd,active,2023-02-21,"26 Woodfield Way, St. Albans, AL4 9RX",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,09165118,B & I FELL INVESTMENTS LIMITED,ltd,active,2014-08-06,"Riverside House Kings Reach Business Park, Stockport, SK4 2HD",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12719471,HAYDN THE PRINCE INVESTMENTS LTD,ltd,active,2020-07-04,"15 St Pauls Avenue, Kenton, HA3 9PR",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10118321,INVESTCO TRADE LIMITED,ltd,active,2016-04-11,"Second Floor, De Burgh House, Wickford, SS12 0FD",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15771650,SHLLAPP LTD.,ltd,active,2024-06-11,"Flat 5 22 Telford Avenue, London, SW2 4XE",,64301|64304,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10795539,BORDER TO COAST PENSIONS PARTNERSHIP LIMITED,ltd,active,2017-05-31,"5th Floor Toronto Square, Leeds, LS1 2HJ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC074582,PERSONAL ASSETS TRUST PUBLIC LIMITED COMPANY,plc,active,1981-04-23,"28 Walker Street, Edinburgh, EH3 7HR",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,05142459,BLACKROCK GREATER EUROPE INVESTMENT TRUST PLC,plc,active,2004-06-01,"12 Throgmorton Avenue, London, EC2N 2DL",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10763400,JAGO JAKE LIMITED,ltd,active,2017-05-10,"26 Lines Way, Bristol, BS14 0TT",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14340840,QUINEX INVESTMENTS LTD,private-limited-guarant-nsc,active,2022-09-06,"1 Hilda Lockert Walk, London, SW9 7HZ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11920824,BAH INVESTMENT DESIGN CORPORATION LTD.,ltd,active,2019-04-02,"196 196 Kelynmead Road, Birmingham, B33 8LH",,64301|71121,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12584751,PINGORA CONSULTING LTD,ltd,active,2020-05-04,"20-22 Wenlock Road, London, N1 7GU",,64301|70229,Activities of investment trusts|Management consultancy activities,True,50,2026-04-08
+SIC:64301,11574116,WILMAN & PARTNERS LTD,ltd,active,2018-09-18,"The Oval, Leicester, LE1 7EA",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11295975,GLOBE INVESTMENTS LIMITED,ltd,active,2018-04-06,"Unit 3 Venture Works Charleywood Road, Liverpool, L33 7SG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15728112,TM WISDOM LTD,ltd,active,2024-05-18,"112 Coburn Street, Cardiff, CF24 4BT",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:70221,11787436,ELTECO GLOBAL HOLDING LTD,ltd,active,2019-01-25,"30 Fitzalan Road, Horsham, RH13 6AA",,64205|70221|70229,Activities of financial services holding companies|Financial Management|Management consultancy activities,True,50,2026-04-08
+SIC:64301,10341209,ACM CAPITAL HOLDINGS LTD,ltd,active,2016-08-22,"27 Old Gloucester Street, London, WC1N 3AX",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,15340842,SNJ LINK HOLDINGS LIMITED,ltd,active,2023-12-09,"20 Kewferry Drive, Northwood, HA6 2PA",,64301|64304|70229,Activities of investment trusts|Management consultancy activities,True,50,2026-04-08
+SIC:64301,SC677825,LARCHPOINT ALTERNATIVE RB CARRY GP LIMITED,ltd,active,2020-10-16,"Fourth Floor, Edinburgh, EH2 3AH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC619725,LARCHPOINT RB CARRY GP LIMITED,ltd,active,2019-01-30,"4th Floor 7 Castle Street, Edinburgh, EH2 3AH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC677796,LARCHPOINT 1B RB COINVEST GP LIMITED,ltd,active,2020-10-16,"Fourth Floor, Edinburgh, EH2 3AH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC677821,LARCHPOINT ALTERNATIVE RB COINVEST GP LIMITED,ltd,active,2020-10-16,"Fourth Floor, Edinburgh, EH2 3AH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC619699,LARCHPOINT RB GP LIMITED,ltd,active,2019-01-30,"4th Floor 7 Castle Street, Edinburgh, EH2 3AH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,13360937,"RUISHEN CO., LTD",ltd,active,2021-04-27,"69 Aberdeen Avenue, Cambridge, CB2 8DL",,50200|62020|64301|70221,Activities of investment trusts|Financial Management,True,50,2026-04-08
+SIC:64301,02479975,BLACKROCK LATIN AMERICAN INVESTMENT TRUST PLC,plc,active,1990-03-12,"12 Throgmorton Avenue, London, EC2N 2DL",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11032222,ABRDN EUROPEAN LOGISTICS INCOME PLC,plc,active,2017-10-25,"280 Bishopsgate, London, EC2M 4AG",,64301|68100|68209,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,07251471,POLAR CAPITAL GLOBAL HEALTHCARE TRUST PLC,plc,active,2010-05-12,"16 Palace Street, London, SW1E 5JD",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,09576006,PINKS WEALTH MANAGEMENT LTD,ltd,active,2015-05-06,"414-416 Blackpool Road Ashton-On-Ribble, Preston, PR2 2DX",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14741755,MAIHOMM TRUSTEES,private-limited-guarant-nsc-limited-exemption,active,2023-03-20,"128 City Road, London, EC1V 2NX",,64301|64302|64305|64306,Activities of investment trusts,True,50,2026-04-08
+SIC:70221,12611953,LANDFAIR CAPITAL LIMITED,ltd,active,2020-05-19,"3rd Floor 1 Ashley Road, Altrincham, WA14 2DT",,66300|68320|70221|96090,Fund management activities|Financial Management,True,50,2026-04-08
+SIC:64301,12120243,BANQUE ESPANA SA LTD,ltd,active,2019-07-24,"55 Listerhills Science Park, Bradford, BD7 1HR",,64301|64305|64306|64910,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,00223583,JPMORGAN JAPANESE INVESTMENT TRUST PLC,plc,active,1927-08-02,"60 Victoria Embankment, London, EC4Y 0JP",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14602229,MONSON ROAD HOLDINGS LTD,ltd,active,2023-01-18,"Shadwell House, Tunbridge Wells, TN4 8TW",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,13674132,KARPAGAM INVESTMENTS LTD,ltd,active,2021-10-12,"15 Broomfield Road, Reading, RG30 6AJ",,41100|64301|68100|68209,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14145479,MARION ROAD EYE CLINIC UK LTD,ltd,active,2022-06-01,"Downsview House, Oxted, RH8 0QE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12648877,DBILLION INVESTMENTS LTD,ltd,active,2020-06-05,"12648877 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,64301|64306,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC179412,CT PRIVATE EQUITY TRUST PLC,plc,active,1997-10-06,"6th Floor Quartermile 4, Edinburgh, EH3 9EG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12039736,3T CAPITAL,private-unlimited,active,2019-06-07,"Mayfield, Wolsingham, DL13 3DR",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12563559,FLO-MAT HOLDING LTD,ltd,active,2020-04-20,"318 Ongar Road Ongar Road, Brentwood, CM15 9HR",,41100|64209|64301|81100,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12127220,AVAL GROUP LTD,ltd,active,2019-07-29,"358 Station Road, Harrow, HA1 2DE",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,03008494,SCHRODER INCOME GROWTH FUND PLC,plc,active,1995-01-05,"1 London Wall Place, London, EC2Y 5AU",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,08039882,MANOR LIFE INVESTMENTS LIMITED,ltd,active,2012-04-20,"Harbour House, Southampton, SO14 2AQ",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12780933,X FINANCE LTD,ltd,active,2020-07-30,"Devonshire House Off Ax, Stanmore, HA7 1JS",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:70221,14819323,BLUE CLOUD GLOBAL U.K. LIMITED,ltd,active,2023-04-21,"20 Havelock Road, Hastings, TN34 1BP",,64303|66300|70221,Activities of venture and development capital companies|Fund management activities|Financial Management,True,50,2026-04-08
+SIC:64301,13413930,WINNFIELD INVESTMENTS,private-unlimited,active,2021-05-21,"Salisbury House, Cambridge, CB1 2LA",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,10487101,YOLOLI LIMITED,ltd,active,2016-11-18,"7 Holgate, Nottingham, NG11 8NH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,07090390,MICRO-E C.I.C.,ltd,active,2009-11-30,"38 St. Peters Churchyard, Derby, DE1 1NN",,64301|64921|64929,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12886117,CALLANISH PARTNERS LTD,ltd,active,2020-09-17,"45 Pont Street, London, SW1X 0BD",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12505790,MAROANPOTH LIMITED,ltd,active,2020-03-09,"King Arthurs Court Maidstone Road, Ashford, TN27 0JS",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12545618,ATLANTIC MANAGEMENT LTD,ltd,active,2020-04-03,"12545618 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12588562,PROCURATIO PRIVATSTIFTUNG,private-limited-guarant-nsc-limited-exemption,active,2020-05-06,"167-19 Great Portland Street, London, W1W 5PF",,64203|64301|68100|68320,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,14825769,YOUNG GALILEE,private-unlimited,active,2023-04-25,"West Whiteoaks, Cranleigh, GU6 8SN",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,07681310,NEW ALTERNATIVE INVESTMENTS LTD,ltd,active,2011-06-24,"3 - 5, Gillingham, ME8 7RG",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,11591932,HUXHAM FUTURES,private-unlimited,active,2018-09-27,"Aston House, London, N3 1LF",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:66300,11513259,O S ASSET MANAGEMENT LTD,ltd,active,2018-08-13,"New Mill Cottage, Barry, CF62 3AG",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10654248,AEGON INVESTMENTS LIMITED,ltd,active,2017-03-06,"Level 26 The Leadenhall Building, London, EC3V 4AB",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09021349,LEE BAY VILLAGE INVESTMENTS LIMITED,ltd,active,2014-05-01,"29 York Street, London, W1H 1EZ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07341131,BLN LOAN SYNDICATES LIMITED,private-limited-guarant-nsc,active,2010-08-10,"Unit 2/3 Charter Point Way, Ashby-De-La-Zouch, LE65 1NF",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11292168,STUYVESANT ADVISORY LTD,ltd,active,2018-04-05,"99 Pennsylvania Road, Devon, EX4 6DT",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14881929,LEISURE SPV1 LIMITED,ltd,active,2023-05-19,"One Coleman Street, London, EC2R 5AA",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,04000835,AZINI 3 (GENERAL PARTNER) LIMITED,ltd,active,2000-05-19,"32 Maple Street, London, W1T 6HB",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14106617,GLAP DELIVERY COMPANY LIMITED,ltd,active,2022-05-13,"Unit 9-12 Jessops Riverside 800 Brightside Lane, Sheffield, S9 2RX",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07739651,AVIVA INVESTORS INFRASTRUCTURE GP LIMITED,ltd,active,2011-08-15,"80 Fenchurch Street, London, EC3M 4AE",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07680828,AVIVA INVESTORS COMMERCIAL ASSETS GP LIMITED,ltd,active,2011-06-23,"80 Fenchurch Street, London, EC3M 4AE",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09219501,CARDRET LIMITED,ltd,active,2014-09-16,"76 Balcombe Street, London, NW1 6NE",,66300,Fund management activities,True,50,2026-04-08
+SIC:64301,11387140,LEX HOMES CAPITAL LIMITED,ltd,active,2018-05-29,"Miller House, Harrow, HA1 2RZ",,64301|64304|64306|68100,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,07771343,J&H ENERGY LIMITED,ltd,active,2011-09-13,"46-54 High Street, Ingatestone, CM4 9DW",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,12399674,CARTER & CO PROPERTY CONSULTANTS LIMITED,ltd,active,2020-01-13,"7a Corn Exchange, Swaffham, PE37 7AB",,64301,Activities of investment trusts,True,50,2026-04-08
+SIC:64301,SC735777,CASAWEALTH LTD,ltd,active,2022-06-16,"Second Floor, Glasgow, G2 1BP",,64301|68100|68209|68310,Activities of investment trusts,True,50,2026-04-08
+SIC:66300,09081916,VERMEER INVESTMENT MANAGEMENT LIMITED,ltd,active,2014-06-11,"130 Jermyn Street, London, SW1Y 4UR",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11398673,ZABETH LIMITED,ltd,active,2018-06-05,"First Floor, Lipton House, Leighton Buzzard, LU7 4QQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,05147664,BALYASNY INTERNATIONAL ASSET MANAGEMENT LIMITED,ltd,active,2004-06-08,"23 King Street, London, SW1Y 6QY",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,05384864,BALYASNY INTERNATIONAL ASSET MANAGEMENT II LIMITED,ltd,active,2005-03-08,"23 King Street, London, SW1Y 6QY",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13644212,GLENAMBER LIMITED,ltd,active,2021-09-27,"4th Floor, 58-59 Great Marlborough Street, London, W1F 7JY",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10800818,HENLEY FM LIMITED,ltd,active,2017-06-02,"50 Grosvenor Hill, London, W1K 3QT",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12881709,SK GROUP ENDOWMENT PROGRAMME LTD,private-limited-guarant-nsc,active,2020-09-15,"Beckwith Barn Warren Estate, Writtle, CM1 3WT",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,06373531,PALMER INVESTMENT MANAGEMENT LIMITED,ltd,active,2007-09-18,"1-4 Farrow Road, Chelmsford, CM1 3TH",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,08567373,DAVID MORGAN CONSULTING LTD,ltd,active,2013-06-12,"30 Boxgrove Avenue, Guildford, GU1 1XQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14124097,ARINI CAPITAL MANAGEMENT LIMITED,ltd,active,2022-05-23,"100 Longwater Avenue, Reading, RG2 6GP",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,08716410,PAUL DODD ASSET MANAGEMENT LIMITED,ltd,active,2013-10-03,"18 Wynmore Avenue, Leeds, LS16 9DE",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10120315,GLOBAL PARAMETRICS HOLDING COMPANY LIMITED,ltd,active,2016-04-12,"1 Lime Street, London, EC3M 7HA",,64205|66300,Activities of financial services holding companies|Fund management activities,True,50,2026-04-08
+SIC:66300,03734035,MULVANEY CAPITAL MANAGEMENT LIMITED,ltd,active,1999-03-17,"5th Floor 3 Moorgate Place, London, EC2R 6EA",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12589637,MILOTARP AGENCIES UK LIMITED,ltd,active,2020-05-06,"50a The Ridgeway, London, NW11 8QN",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07710145,ESS GROUP INTERNATIONAL LTD,ltd,active,2011-07-19,"3rd Floor 207 Regent Street, London, W1B 3HH",,41100|62020|66300|82990,Fund management activities,True,50,2026-04-08
+SIC:66300,14116953,HANGAR X LTD,ltd,active,2022-05-19,"15 Cavendish Square, West Central, W1G 0AN",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11397908,ALS III MEMBER CO LIMITED,ltd,active,2018-06-05,"27 Fitzroy Square, London, W1T 6ES",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11645469,ARISTATA CAPITAL LIMITED,ltd,active,2018-10-26,"C/O Hillier Hopkins Llp Ground Floor, London, SW1Y 5JG",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10699502,CAND CAPITAL LIMITED,ltd,active,2017-03-30,"27a Barker Road, Sutton Coldfield, B74 2NY",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10563064,EFG HERMES UK LIMITED,ltd,active,2017-01-13,"18 Upper Brook Street, London, W1K 7PU",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12108672,FIM PARTNERS UK LTD,ltd,active,2019-07-17,"Suite 1, 7th Floor 50 Broadway, London, SW1H 0BL",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11237279,KYMA CAPITAL LIMITED,ltd,active,2018-03-06,"1 Duchess Street, London, W1W 6AN",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09055167,PROMERITUM MANAGEMENT LIMITED,ltd,active,2014-05-23,"11-12 Hanover Square, London, W1S 1JJ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14346136,ZL EDGE LTD,ltd,active,2022-09-08,"7 Bell Yard, London, WC2A 2JR",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,15012997,FINSAI LTD,ltd,active,2023-07-19,"Suite 1-2, Brookfield Court Selby Road, Leeds, LS25 1NB",,66110|66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09594590,MULTI-STRATEGY CONSULTING LIMITED,ltd,active,2015-05-16,"60 Gresham Street, London, EC2V 7BB",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12638672,BRIDGES OUTCOMES LIMITED,ltd,active,2020-06-02,"38 Seymour Street, London, W1H 7BP",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,04607476,AUTONOMY SERVICE COMPANY LIMITED,ltd,active,2002-12-03,"9 Appold Street, London, EC2A 2AP",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,05099500,PRIMA 200 LIMITED,ltd,active,2004-04-13,"5 The Triangle, Worcester, WR5 2QX",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13377745,HASTOO INVESTMENTS LTD,ltd,active,2021-05-05,"Unit 9 Twelve O'Clock Court, Sheffield, S4 7WW",,64304|66110|66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14090373,LINGJING GROUP LTD,ltd,active,2022-05-06,"High Common Cottage Wymondham Road, Norwich, NR16 1AY",,59111|66300|74909|85520,Fund management activities,True,50,2026-04-08
+SIC:66300,SC632718,GROWTOWN PROPERTY SERVICES LTD,ltd,active,2019-06-07,"5b Firth Road, Livingston, EH54 5DJ",,66300|98000,Fund management activities,True,50,2026-04-08
+SIC:66300,13017347,BARRACUDA ENERGY STORAGE LIMITED,ltd,active,2020-11-13,"13017347 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,07290|08990|66300|70221,Fund management activities|Financial Management,True,50,2026-04-08
+SIC:66300,10885069,MATIN GROUP LTD,ltd,active,2017-07-26,"128 City Road, London, EC1V 2NX",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14313126,ABRDN (IL INFRASTRUCTURE DEBT) GP LIMITED,ltd,active,2022-08-23,"280 Bishopsgate, London, EC2M 4AG",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14251454,C-BRIDGE CAPITAL (UK) LTD,ltd,active,2022-07-22,"4th Floor, 3 More London Riverside, London, SE1 2AQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10999818,EZEBIZGROUP LTD,ltd,active,2017-10-06,"3 Wylie Close, Oxford, OX3 7NH",,49320|66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09747110,APEX INDEPENDENT FINANCIAL PLANNING LTD,ltd,active,2015-08-25,"Elm Lodge 14 Elbow Lane, Liverpool, L37 4AF",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13548403,RYAN JOSEPH INVESTMENT LTD,ltd,active,2021-08-04,"264 Malden Road, London, KT3 6AR",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,06906958,FE LOAN MANAGEMENT LIMITED,ltd,active,2009-05-15,"First Floor Linea House, Fleet, GU51 2UZ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,02276839,ICG LONGBOW SENIOR DEBT I GP LIMITED,ltd,active,1988-07-13,"Procession House, London, EC4M 7JW",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,08547260,ICG ALTERNATIVE INVESTMENT LIMITED,ltd,active,2013-05-29,"Procession House, London, EC4M 7JW",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07953000,ANTERRA LIMITED,ltd,active,2012-02-16,"7-8 Ritz Parade, London, W5 3RA",,64209|66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07456530,BAOBAB INVESTMENT MANAGERS LTD,ltd,active,2010-12-01,"Leytonstone House, London, E11 1GA",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10518470,THOMPSON TARAZ RAND TRUSTEES LIMITED,ltd,active,2016-12-09,"10 Jesus Lane, Cambridge, CB5 8BA",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,NI695663,IONA STAR CAPITAL LIMITED,ltd,active,2023-03-23,"Floor 8 City Exchange, Belfast, BT1 4LS",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,09068864,COOK FUNDRAISING CONSULTANCY LTD,ltd,active,2014-06-03,"Tuite Tang Wong, Woodford Green, IG8 0HL",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,15761023,ALTIMIST CAPITAL LTD,ltd,active,2024-06-04,"34 Switch House West, Battersea Power Station, London, SW11 8BD",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14399700,RESONANCE ENTERPRISE INVESTMENT CIC,ltd,active,2022-10-05,"The Great Barn 5 Scarne Court, Launceston, PL15 9LR",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,07745735,ROBUS CAPITAL MANAGEMENT LIMITED,ltd,active,2011-08-18,"9 Percy Street, London, W1T 1DL",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12480667,RAHMA INVESTMENTS LIMITED,ltd,active,2020-02-25,"20 Unimix House Abbey Road, London, NW10 7TR",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14819895,CLEAR SKY CAPITAL UK LIMITED,ltd,active,2023-04-21,"C/O Uk Storage Consultancy Limited Wework, London, W6 7NL",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14715832,BALYASNY INTERNATIONAL II LTD,ltd,active,2023-03-08,"23 King Street, London, SW1Y 6QY",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13911301,ST LEONARDS QUARTER NO 2 LIMITED,ltd,active,2022-02-11,"29 York Street, London, W1H 1EZ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10744713,CTS FINANCE LIMITED,ltd,active,2017-04-27,"Solar House, London, N14 6NZ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,04765845,JK INVESTMENT MANAGEMENT SERVICES LIMITED,ltd,active,2003-05-15,"3 Bury House, Guildford, GU2 4AW",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11991197,NEWSOME WEALTH MANAGEMENT LTD,ltd,active,2019-05-13,"4 Running Well, Runwell, SS11 7GD",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12592006,KRYGER CAPITAL LIMITED,ltd,active,2020-05-07,"35 Dover Street, London, W1S 4NQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12145651,OXBRIDGE ANGELS NOMINEES 2020 LTD,ltd,active,2019-08-08,"298 A Bath Road, Hounslow, TW4 7DN",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,04330905,NUPPP (GP) LIMITED,ltd,active,2001-11-29,"80 Fenchurch Street, London, EC3M 4AE",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12603030,JENSON CD LIMITED,ltd,active,2020-05-14,"2 Maple Court, Macclesfield, SK10 1JE",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,08519020,TREMPLIN MANAGEMENT LTD,ltd,active,2013-05-07,"Beckwith Barn Warren Estate, Writtle, CM1 3WT",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12351291,GENIO CAPITAL LIMITED,ltd,active,2019-12-05,"13 Hursley Road, Eastleigh, SO53 2FW",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11594604,PARKER CAPITAL PRIVATE EQUITY LIMITED,ltd,active,2018-09-28,"Prospect Park, Leeds, LS14 1NH",,66300,Fund management activities,True,50,2026-04-08
+SIC:64205,15754995,PROSPERA UK CAPITAL LTD,ltd,active,2024-06-01,"Unit 5 Centre Court Meridian North, Leicester, LE19 1WR",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12559612,TECHELEVATEUK GROUP LTD,ltd,active,2020-04-16,"The Granary 1 Waverley Lane, Farnham, GU9 8BB",,62090|64205|85422,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,06609401,EVERCORE HOLDINGS LIMITED,ltd,active,2008-06-03,"15 Stanhope Gate, London, W1K 1LN",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15163223,PIONEER BALMORAL MIDCO LIMITED,ltd,active,2023-09-25,"Viking House, Widnes, WA8 0NX",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:66300,13716590,ICP (FINCH) GP 2 LIMITED,ltd,active,2021-11-01,"First Floor ,, London, W1W 7LT",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,15666257,FUTURE GROWTH CAPITAL LIMITED,ltd,active,2024-04-22,"1 London Wall Place, London, EC2Y 5AU",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,10774442,TJRK LIMITED,ltd,active,2017-05-17,"Honeycroft, Walton-On-Thames, KT12 1EJ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12565422,NJ INVESTCO LIMITED,ltd,active,2020-04-21,"Harbour House, Southampton, SO14 2AQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13620301,FIN GREEN LTD,ltd,active,2021-09-14,"85 Great Portland Street, First Floor, London, W1W 7LT",,64303|66300,Activities of venture and development capital companies|Fund management activities,True,50,2026-04-08
+SIC:66300,10228643,DRASHTA CAPITAL UK LIMITED,ltd,active,2016-06-13,"124 City Road, London, EC1V 2NX",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,13591197,INTENT TO SUCCESS LTD,ltd,active,2021-08-29,"9 Corbets Tey Road, Upminster, RM14 2AP",,66300|68100,Fund management activities,True,50,2026-04-08
+SIC:66300,15731164,ECHIDNA HOLDINGS LIMITED,ltd,active,2024-05-20,"237 Westcombe Hill, London, SE3 7DW",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,14132118,VULPES INVESTMENT MANAGEMENT UK LTD,ltd,active,2022-05-25,"71-75 Shelton Street, London, WC2H 9JQ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,11194622,AUGMENTUM FINTECH GP LIMITED,ltd,active,2018-02-08,"5th Floor 4 Chiswell Street, London, EC1Y 4UP",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,12108819,MAKPAY LTD,ltd,active,2019-07-17,"61 Bridge Street, Kington, HR5 3DJ",,66300,Fund management activities,True,50,2026-04-08
+SIC:66300,08978722,CDAM (UK) LIMITED,ltd,active,2014-04-04,"Meadows House, London, W1J 5PR",,66300,Fund management activities,True,50,2026-04-08
+SIC:64205,12546276,ALAN HOLLINGSWORTH FINANCIAL SOLUTIONS LTD,ltd,active,2020-04-03,"1 Ennerdale Road, Stockton-On-Tees, TS18 4ND",,64205|64922|65110,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12700820,PLANIT HOLDINGS LIMITED,ltd,active,2020-06-26,"128 City Road, London, EC1V 2NX",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12790920,LUMINARY VENTURES LTD,ltd,active,2020-08-04,"421 High Road, London, N12 0AP",,64205|64991,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11988761,AJ FINANCE & LOGISTICS LTD,ltd,active,2019-05-10,"11988761 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10512944,GLD FINANCIAL CONSULTANTS LIMITED,ltd,active,2016-12-06,"39-43 Bridge Street Swinton, Mexborough, S64 8AP",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,01956754,NADIRA ENTERPRISES LIMITED,ltd,active,1985-11-11,"C/O Pje Chartered Accountants, 2 Oakfield Road, Bristol, BS8 2AL",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,01594941,LONDON AND MANCHESTER GROUP LIMITED,ltd,active,1981-11-02,"Aviva, York, YO90 1WR",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12404968,CES CORPORATION LTD,ltd,active,2020-01-15,"Flat 676 275 New North Road, London, N1 7AA",,46190|64205|68320|70229,Activities of financial services holding companies|Management consultancy activities,True,50,2026-04-08
+SIC:64205,12374227,BILLETS SOLUTIONS LIMITED,ltd,active,2019-12-20,"200 Hillrise Road, Romford, RM5 3BZ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12283626,NICOLA MCLAUGHLIN LIMITED,ltd,active,2019-10-28,"15 Perth Close, Liverpool, L33 1EJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13398529,BEGINI LTD,ltd,active,2021-05-14,"54 Thorpe Road, Norwich, NR1 1RY",,64205|64209|64301,Activities of financial services holding companies|Activities of investment trusts,True,50,2026-04-08
+SIC:64205,13036744,APPOLOPAY LIMITED,ltd,active,2020-11-23,"30 Churchill Place, London, E14 5RE",,63120|64204|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,07566449,MG RISK MANAGEMENT LTD,ltd,active,2011-03-16,"109 Hampstead Way, London, NW11 7LR",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13378322,TERRA NOVA HOLDING GROUP LTD,ltd,active,2021-05-05,"20-22 Wenlock Road, London, N1 7GU",,64191|64205|66300|69109,Activities of financial services holding companies|Fund management activities,True,50,2026-04-08
+SIC:64205,13558213,BROADLEAF NEWCO 1 LIMITED,ltd,active,2021-08-10,"30 Broadwick Street, London, W1F 8JB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15755901,VARADY HOLDINGS LIMITED,ltd,active,2024-06-02,"Bournebridge House, Holyport, SL6 2JB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12729570,TUBMAN INVESTMENTS LTD,ltd,active,2020-07-08,"42 Downing Close, Milton Keynes, MK3 6EP",,64205|64304|64999|68100,Activities of financial services holding companies|Financial Intermediation,True,50,2026-04-08
+SIC:64205,14119329,JALJAM BOOKKEEPING LTD,ltd,active,2022-05-19,"9 Byron Road, Redditch, B97 5EB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13047973,MARLBOROUGH ASSET MANAGERS LIMITED,ltd,active,2020-11-27,"Marlborough House, Bolton, BL1 4QP",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,09237246,MAGUS TAO LIMITED,ltd,active,2014-09-26,"Endeavour House Crawley Business Quarter, Crawley, RH10 9LW",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10162640,REDHILL FAMCO LIMITED,ltd,active,2016-05-04,"Lake View, Cheadle, SK8 3GW",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11285573,EDDIE INVESTMENT HOLDINGS LIMITED,ltd,active,2018-04-03,"2nd Floor The Hamlet, Harrogate, HG2 8RE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10793704,WHITEWORLD HOLDINGS LTD,ltd,active,2017-05-30,"Aston House 57 Woodlands Avenue, Felixstowe, IP11 0AB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14852215,LUCRATIVE HOLDINGS LIMITED,ltd,active,2023-05-08,"4 Regency Wharf, Birmingham, B1 2DS",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC456812,CD RED ROSE GP LIMITED,ltd,active,2013-08-15,"50 Lothian Road, Edinburgh, EH3 9WJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14328025,ATLAS SECURITIES LTD,ltd,active,2022-08-31,"20-22 Wenlock Road, London, N1 7GU",,64205|64209,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11135596,LAILASANA LIMITED,ltd,active,2018-01-05,"105 Welldon Crescent, Harrow, HA1 1QJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14333173,13BOOKS CAPITAL II FOUNDER PARTNER 1 LIMITED,ltd,active,2022-09-02,"1st Floor 80 Clerkenwell Road, London, EC1M 5RJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC761947,OMNIA OGS LTD,ltd,active,2023-03-13,"272 Bath Street, Glasgow, G2 4JR",,64205|96030,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14068191,SHR IPSWICH LIMITED,ltd,active,2022-04-26,"80 Fenchurch Street, London, EC3M 4AE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11397922,THOMSON GROUP LIMITED,ltd,active,2018-06-05,"4 Duncan Close, Northampton, NN3 6WL",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10904149,MOUNTAIN (DUBAI) LIMITED,ltd,active,2017-08-08,"Elsley Court, London, W1W 8BE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11935375,STELLA SWS LIMITED,ltd,active,2019-04-09,"Security Window Shutters Limited C/O Hornby Road, Lancaster, LA2 9LA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,07639566,ARMORICA INVESTMENT LIMITED,ltd,active,2011-05-19,"11 Blackheath Village, London, SE3 9LA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10912123,BASSE-POINTE ADVISORS LIMITED,ltd,active,2017-08-11,"Kemp House, London, EC1V 2NX",,64205|64303|66210|70229,Activities of financial services holding companies|Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64205,12181543,EVA JAMES SOLUTIONS LTD,ltd,active,2019-08-30,"29 Church Road, Liverpool, L26 0US",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12224896,MILLENIUM GROUP LTD,ltd,active,2019-09-24,"8 Anglian Road, London, E11 4YB",,08990|43330|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12029901,IZZATF LIMITED,ltd,active,2019-06-03,"36 Harrington Road, Worcester, WR2 5HD",,45310|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15659249,FUTURE GROWTH CAPITAL (HOLDINGS) LIMITED,ltd,active,2024-04-18,"1 London Wall Place, London, EC2Y 5AU",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15726583,WWSO I HOLDCO 2 LIMITED,ltd,active,2024-05-17,"84 Brook Street, London, W1K 5EH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15726584,WWSO I HOLDCO 1 LIMITED,ltd,active,2024-05-17,"84 Brook Street, London, W1K 5EH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14011930,INTERNATIONAL WEALTH HOLDING LTD,ltd,active,2022-03-30,"Suite G04 1 Quality Court, Chancery Lane, London, WC2A 1HR",,64203|64205|64209|68100,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14059331,PA FINANCE HOLDINGS LTD,ltd,active,2022-04-21,"80 Coleman Street, London, EC2R 5BJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,09722126,SIMON MIDCO LIMITED,ltd,active,2015-08-08,"No. 1 The Square Thorpe Park View, Leeds, LS15 8GH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13232335,GE WEALTH MANAGEMENT HOLDINGS LTD,ltd,active,2021-02-27,"31 Wellington Road, Nantwich, CW5 7ED",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13013775,MB INVESTMENTS LTD,ltd,active,2020-11-12,"71-75 Shelton Street, London, WC2H 9JQ",,47799|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,09624075,EMBASSY OF THE SEAS LIMITED,ltd,active,2015-06-04,"27 Old Gloucester Street, London, WC1N 3AX",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14887940,FRIDOSAN LTD,ltd,active,2023-05-23,"Office 7301 182-184 High Street North, London, E6 2JA",,47910|62020|62090|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12730384,SINESIS INTERNATIONAL LTD,ltd,active,2020-07-09,"20-22 Wenlock Road, London, N1 7GU",,64205|68310|70221|70229,Activities of financial services holding companies|Financial Management|Management consultancy activities,True,50,2026-04-08
+SIC:64205,12085578,TRANSUNION UK HOLDINGS LTD.,ltd,active,2019-07-04,"1 Park Lane, Leeds, LS3 1EP",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,08336897,LOWELL UK SHARED SERVICES LIMITED,ltd,active,2012-12-19,"No. 1 The Square Thorpe Park View, Leeds, LS15 8GH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14866322,CONNECTED HABITAT LIMITED,ltd,active,2023-05-12,"C/O Aspreys Accountants Ltd No. 5 The Heights, Weybridge, KT13 0NY",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC726183,3I NAI HOLDINGS GP LIMITED,ltd,active,2022-03-14,"50 Lothian Road, Edinburgh, EH3 9WJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11316504,GPP KI DENMARK LTD,ltd,active,2018-04-18,"66 Wandsworth Common, London, SW18 2SH",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13470453,INTERNATIONEL CONSULTING UG LIMITED,ltd,active,2021-06-22,"13 Wareham Road, Poole, BH16 6FA",,64205|64303|64999,Activities of financial services holding companies|Activities of venture and development capital companies|Financial Intermediation,True,50,2026-04-08
+SIC:64205,11809790,PAY QUIK FINANCIAL SERVICES LTD,ltd,active,2019-02-06,"9 Red Lion Court, Hounslow, TW3 1JS",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,08168758,EQUIVEST VENTURES LTD,ltd,active,2012-08-06,"124 City Road, London, EC1V 2NX",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,14296116,LONDON VENTURE CAPITAL EXCHANGE LIMITED,ltd,active,2022-08-15,"3/F 86 - 90 Paul Street, London, EC2A 4NE",,64205|64303|64991|66110,Activities of financial services holding companies|Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64205,13567075,BLK.FX LTD,ltd,active,2021-08-16,"Penniwells Edgwarebury Lane, Borehamwood, WD6 3RG",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13396821,PROSPERISE CAPITAL (HOLDINGS) LIMITED,ltd,active,2021-05-14,"1 Knightsbridge Green, London, SW1X 7QA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13396700,PROSPERISE CAPITAL (LONDON) LIMITED,ltd,active,2021-05-14,"1 Knightsbridge Green, London, SW1X 7QA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,NI715839,NEIGHBOURHOOD HOLDINGS LIMITED,ltd,active,2024-05-15,"41-43 Hill Street, Belfast, BT1 2LB",,56102|64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC630869,3I GP 2019 (SCOTS) LIMITED,ltd,active,2019-05-21,"50 Lothian Road, Edinburgh, EH3 9WJ",,64205|66300,Activities of financial services holding companies|Fund management activities,True,50,2026-04-08
+SIC:64205,SC720569,3I GP 2022 (SCOTS) LIMITED,ltd,active,2022-01-21,"50 Lothian Road, Edinburgh, EH3 9WJ",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12810610,TKAM MANAGEMENT LTD,ltd,active,2020-08-13,"135 Church Road, Folkestone, CT20 3ER",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15737722,WER HOLDINGS LIMITED,ltd,active,2024-05-23,"71-75 Shelton Street, London, WC2H 9JQ",,43999|64205|68209,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11092415,LENDCO FINANCE LIMITED,ltd,active,2017-12-01,"33 Gracechurch Street, London, EC3V 0BT",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,SC650027,ENF HOLDINGS LIMITED,ltd,active,2019-12-19,"55 Market Road, Carluke, ML8 4BE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,00342025,S & U PLC,plc,active,1938-07-01,"2 Stratford Court Cranmore Boulevard, Solihull, B90 4QT",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15720711,FIDELITY CANADA HOLDINGS (UK) LIMITED,ltd,active,2024-05-14,"4 Cannon Street, London, EC4M 5AB",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15720732,JEP INVESTMENTS LTD,ltd,active,2024-05-14,"Westminster House, Macclesfield, SK10 1BX",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,08088242,FITZROY PLACE GP 2 LIMITED,ltd,active,2012-05-30,"80 Fenchurch Street, London, EC3M 4AE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,13276210,BRASIEN MANAGEMENT LIMITED,ltd,active,2021-03-18,"C/O Rodliffe Accounting Ltd, Canary Wharf, E14 5AA",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10169790,AUNGIER LEFEVRES LIMITED,ltd,active,2016-05-09,"Trevear House Old County Court, Penzance, TR18 4GH",,64205|64991,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,07397651,VISA CEMEA HOLDINGS LIMITED,ltd,active,2010-10-05,"1 Sheldon Square, London, W2 6TT",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,10189160,ACCESS TO PROPERTY LTD,ltd,active,2016-05-19,"109 Coleman Road, Leicester, LE5 4LE",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,11430503,BIO CAPITAL LTD,ltd,active,2018-06-25,"The Corn Store, Buntingford, SG9 0RU",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,12998502,CROWNGLOBAL CAPITAL INVESTMENTS PLC,plc,active,2020-11-05,"3 Portnall Road, London, W9 3BA",,64205|64209|64304|64999,Activities of financial services holding companies|Financial Intermediation,True,50,2026-04-08
+SIC:64205,04177988,ST GILES HOLDINGS (NUMBER 1) LIMITED,ltd,active,2001-03-13,"Rossington's Business Park, Retford, DN22 7SW",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64205,15749708,AKADO HOLDING LTD,ltd,active,2024-05-29,"390 London Road, Mitcham, CR4 4EA",,64205|64209|64991,Activities of financial services holding companies,True,50,2026-04-08
+SIC:64303,12657454,WEALTH HEALTH CORPORATION LTD,ltd,active,2020-06-09,"71-75 Shelton Street, London, WC2H 9JQ",,64303|68209|70221|93110,Activities of venture and development capital companies|Financial Management,True,50,2026-04-08
+SIC:64303,08518872,PACIFIC & ORIENT PROPERTIES LTD,ltd,active,2013-05-07,"Suite 1, 7th Floor 50, Broadway, London, SW1H 0BL",,64303|68100|68209,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,08761147,R.J. FLEMING & CO. LTD.,ltd,active,2013-11-04,"1 Chamberlain Square Cs, Birmingham, B3 3AX",,64209|64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14328166,GREYSTONE HOUSE BRANDS LIMITED,ltd,active,2022-08-31,"C/O Brabners Llp, Manchester, M2 3BD",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,03958351,KEY IP LIMITED,ltd,active,2000-03-28,"Flat 5, Needles Point, Bournemouth, BH1 3ET",,64303|69201,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12798960,ARREFCO LTD,ltd,active,2020-08-07,"The Old Vicarage, Stroud, GL5 5JS",,64205|64303|68320,Activities of financial services holding companies|Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14212059,ONX CAPITAL LIMITED,ltd,active,2022-07-04,"6 Spectrum Building, London, N1 6FB",,64303|70221|70229|73200,Activities of venture and development capital companies|Financial Management|Management consultancy activities,True,50,2026-04-08
+SIC:64303,11845527,KARPITCH INVESTMENTS LTD,ltd,active,2019-02-25,"71 Queen Victoria Street, London, EC4V 4BE",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12599354,ALARO INVESTMENTS LTD,ltd,active,2020-05-13,"Woodspring, Kingsbridge, TQ7 2DJ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,07258753,CAPITAL CONSOLIDATIONS LTD,ltd,active,2010-05-19,"54 Seagrim Road, Bournemouth, BH8 0BD",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,10209817,TEAL ESTATE DEVELOPMENTS LTD,ltd,active,2016-06-01,"20 Wenlock Road, London, N1 7GU",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,15733927,TRUSTCHAIN CAPITAL LTD,ltd,active,2024-05-22,"22 Bromhedge, London, SE9 3DZ",,64303|66110|66300,Activities of venture and development capital companies|Fund management activities,True,50,2026-04-08
+SIC:64303,13137711,COEUS EQUITY LIMITED,ltd,active,2021-01-15,"62 Fitzjohns Avenue, London, NW3 5LT",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,07012158,MOORGATE CAPITAL ADVISORS LTD,ltd,active,2009-09-08,"20-22 Wenlock Road, London, N1 7GU",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14891553,STELARIS VENTURES LIMITED,ltd,active,2023-05-24,"C/O Band, London, EC1M 6AW",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:66120,12009592,AB PAN-EUROPEAN INVESTMENT GROUP LTD,ltd,active,2019-05-21,"Unit 3 Aeon Court 108 Main Street, Rotherham, S66 2SE",,64209|64301|64306|66120,Activities of investment trusts|Security and commodity contracts brokerage,True,50,2026-04-08
+SIC:64303,15786755,DESPOT-M SOLUTIONS LTD,ltd,active,2024-06-18,"39 Queensway, Lincoln, LN1 2AD",,64303|69201|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,07729538,ENDVEN NOMINEES LIMITED,ltd,active,2011-08-04,"27 Rosemont Road, London, W3 9LU",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,01440338,HSBC PRIVATE EQUITY INVESTMENTS (UK) LIMITED,ltd,active,1979-07-27,"8 Canada Square, E14 5HQ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14431616,RESERVE 17 MANAGEMENT LIMITED,ltd,active,2022-10-20,"1 Ebor Street, Littleborough, OL15 9AS",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,09591193,WHITEOAK INVESTMENTS LIMITED,ltd,active,2015-05-14,"Suite 651 Hca  At The Shard, London, SE1 9BS",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13377085,NUBLOCK VENTURE LABS LTD,ltd,active,2021-05-05,"334 Kennington Lane, London, SE11 5HY",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14097423,PLAYBOOK INVESTMENTS LIMITED,ltd,active,2022-05-10,"82a James Carter Road, Mildenhall, IP28 7DE",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,SC686804,BTC VENTURE CAPITAL LTD,ltd,active,2021-01-22,"67-77 Glassford Street, Glasgow, G1 1BQ",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,14047243,OGWELL EUCALYPTUS LTD,ltd,active,2022-04-14,"1 Trewirgie Hill, Redruth, TR15 2TB",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,13529711,AEG 1440 HOLDINGS LTD,ltd,active,2021-07-26,"Bramhall House Ack Lane East, Stockport, SK7 2BY",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12562887,FIRST SWISS DEPOSITORY LTD,ltd,active,2020-04-17,"York Eco Business Centre (Office 12), York, YO30 4AG",,42990|64303|68100,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,09526811,THE VIKING ISLAND LTD.,ltd,active,2015-04-07,"301 Royle Building 31 Wenlock Road, London, N1 7SH",,64303|70221|70229,Activities of venture and development capital companies|Financial Management|Management consultancy activities,True,50,2026-04-08
+SIC:64303,14563775,CAPITAL WEALTH MANAGEMENT LTD,ltd,active,2022-12-30,"44-45 Beaufort Court, London, E14 9XL",,24410|64303|68100|70229,Activities of venture and development capital companies|Management consultancy activities,True,50,2026-04-08
+SIC:64303,11584090,VENTURE TECHNOLOGIES INTERNATIONAL LTD,ltd,active,2018-09-24,"11 Mendip Villas, Bristol, BS40 6JG",,64303,Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64303,12605468,PLAYBOOK VENTURES LTD,ltd,active,2020-05-15,"20-22 Wenlock Road, London, N1 7GU",,64205|64209|64303|64304,Activities of financial services holding companies|Activities of venture and development capital companies,True,50,2026-04-08
+SIC:64205,14179818,MANORPLAN HOLDINGS LIMITED,ltd,active,2022-06-17,"5 Eclipse Park, Maidstone, ME14 3EN",,64205,Activities of financial services holding companies,True,50,2026-04-08
+SIC:66120,09352629,HALFO LIMITED,ltd,active,2014-12-12,"18 Thornbera Road, Bishop's Stortford, CM23 3NL",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,02051559,BOW STRADA TRADING LIMITED,ltd,active,1986-09-02,"The Dairy Manor Courtyard, Haddenham, HP17 8JB",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,07147714,INVESTOR NOMINEES LIMITED,ltd,active,2010-02-05,"201 Deansgate, Manchester, M3 3NW",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15720436,THESTAR LTD,ltd,active,2024-05-14,"116 Star Lane, London, E16 4PR",,41202|43290|66120|81210,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,05443938,COOKWORTH LIMITED,ltd,active,2005-05-05,"29 Hispano Avenue, Fareham, PO15 7DS",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12007600,AL-QADR Q ON DEMAND SECURITY LTD,private-limited-guarant-nsc,active,2019-05-21,"7 Westwood Road, Birmingham, B6 7DX",,66120|80100|84120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15719028,A SQUARE GLOBAL CONSULTING LIMITED,ltd,active,2024-05-14,"128 City Road, London, EC1V 2NX",,66120|66300|70221|70229,Security and commodity contracts brokerage|Fund management activities|Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:66120,14904510,LIRIKS LIMITED,ltd,active,2023-05-30,"49 Herald Gardens, Tunbridge Wells, TN2 3FQ",,64991|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,09605998,PETREDEC (EUROPE) LIMITED,ltd,active,2015-05-22,"The Leadenhall Building, Level 43, London, EC3V 4AB",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,10197085,STRONG ENERGY TRADING LIMITED,ltd,active,2016-05-24,"Wey Court West, Farnham, GU9 7PT",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,10373702,ESAREN INTERNATIONAL LTD,ltd,active,2016-09-13,"29 Dukes Wood, Crowthorne, RG45 6NF",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14889572,8 MASSIVE LIMITED,ltd,active,2023-05-23,"Kincraigie, Ross-On-Wye, HR9 7AU",,66120|66190,Security and commodity contracts brokerage|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66120,11335179,BBT FUTURES LIMITED,ltd,active,2018-04-28,"Turnpike House, Leigh On Sea, SS9 2UA",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,08737964,MAS TRADING LIMITED,ltd,active,2013-10-17,"1-3 High Street, Dunmow, CM6 1UU",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15776042,SHADOWELL TECHNOLOGIES LIMITED,ltd,active,2024-06-13,"1 Reginald Street, Bradford, BD5 9NA",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12654768,AURAYA.WALLET LTD,ltd,active,2020-06-09,"Office 4 Wishing Well Barn, Lincoln, LN1 2PW",,66120|66300,Security and commodity contracts brokerage|Fund management activities,True,25,2026-04-08
+SIC:66120,12680420,ZAP IT UP LIMITED,ltd,active,2020-06-18,"71-75 Shelton Street, London, WC2H 9JQ",,64999|66120|82990,Financial Intermediation|Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13603242,GB VEHICLE SECURITY LTD,ltd,active,2021-09-06,"108 Richmond Hill, Oldbury, B68 9TH",,45200|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14147665,JIMOON LTD,ltd,active,2022-06-01,"3 Thomas Street, Bristol, BS2 9LJ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,08771110,LINKS ENERGY & INVESTMENT LTD,ltd,active,2013-11-12,"7 Nash Road, London, SE4 2QH",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13425272,PM WRIGHT INVESTMENTS LTD,ltd,active,2021-05-27,"Insight House, 7a Alkmaar Way, Norwich, NR6 6BF",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13331057,KNIGHTAID LTD,ltd,active,2021-04-13,"5 Kinniside Road, Wigan, WN3 5RG",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,02856891,BB SECURITIES LIMITED,ltd,active,1993-09-24,"280 Bishopsgate, London, EC2M 4AG",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:70229,11790111,THOMAS AND THOMAS (BRISTOL) LIMITED,ltd,active,2019-01-28,"10 Meadow Street Avonmouth, Bristol, BS11 9AR",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:66300,08070247,A M B CORPORATION LTD,ltd,active,2012-05-15,"62 Camden Road, London, NW1 9DR",,64999|66110|66300|82990,Financial Intermediation|Fund management activities,True,25,2026-04-08
+SIC:70229,11187925,PALMERS INTERNATIONAL SERVICES LIMITED,ltd,active,2018-02-05,"45 Gresham Street, London, EC2V 7BG",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12484812,FORTE INTERNATIONAL LIMITED,ltd,active,2020-02-26,"Unit 7c Boyton Hall Lane, Chelmsford, CM1 4LN",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12822600,MERITO MARKETING LTD,ltd,active,2020-08-18,"71 - 75 Shelton Street, London, WC2H 9JQ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,NI627046,ANGLEZARKE LIFE SCIENCES LTD,ltd,active,2014-10-06,"6 Carnesure Park Carnesure Park, Newtownards, BT23 5LT",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07343879,FIONA MACKAY LIMITED,ltd,active,2010-08-12,"9 Great Chesterford Court, Great Chesterford, CB10 1PF",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,08499192,PDG SAFETY LIMITED,ltd,active,2013-04-22,"10 Corporation Road, Newport, NP19 0AR",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09210438,CONSULTING QUEST LIMITED,ltd,active,2014-09-09,"12 Cliff Street, Ramsgate, CT11 9HS",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10910993,LAMBENT CONSULTING LTD,ltd,active,2017-08-11,"1, Derwent Business Centre, Derby, DE1 2BU",,62020|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,14019595,RASTABAN CONSULTING LTD,ltd,active,2022-04-01,"565 Green Lanes, London, N8 0RL",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06176785,CAMBRIDGE LEXICOGRAPHY & LANGUAGE SERVICES LIMITED,ltd,active,2007-03-21,"150 Sedgwick Street, CB1 3AL",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,NI687840,MOORE SAFETY CONSULTANT LTD,ltd,active,2022-05-01,"16 Kingsfort Park, Derry, BT48 7SY",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,13055757,JFRAIL CONSULTING LTD,ltd,active,2020-12-02,"18 Langton Place, Bury St Edmunds, IP33 1NE",,49100|49311|52212|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,03551566,CROFTER DEVELOPMENTS LIMITED,ltd,active,1998-04-23,"Farley, Windermere, LA23 1DJ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06019720,RETAIL PROJECT SERVICES (UK) LIMITED,ltd,active,2006-12-05,"9 High Street, Milton Keynes, MK11 1AA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:66300,08986533,CHIMARA LIMITED,ltd,active,2014-04-08,"124 City Road 124 City Road, London, EC1V 2NX",,63990|64999|66300,Financial Intermediation|Fund management activities,True,25,2026-04-08
+SIC:70229,10759158,ALKIONI HOLDINGS LTD,ltd,active,2017-05-08,"24 Balmore Crescent, Barnet, EN4 9ND",,64209|68100|68209|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,14295217,IDOL STATE LIMITED,ltd,active,2022-08-15,"18 Victoria Gardens, Leeds, LS6 1FH",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11289110,FLONIGHTS LIMITED,ltd,active,2018-04-04,"6 Green Lane Business Park, New Eltham, SE9 3TL",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10695731,WIRE AGENCIES UK LIMITED,ltd,active,2017-03-28,"Unit 3 Oxspring Wiremills Sheffield Road, Sheffield, S36 8YW",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,05801661,ARNOTT ASSOCIATES LIMITED,ltd,active,2006-05-02,"Hellscombe, Marlborough, SN8 2JZ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC379580,121 HR SOLUTIONS LIMITED,ltd,active,2010-06-02,"22 Montrose Street, Glasgow, G1 1RE",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11787455,CSIGHT MARKETING CONSULTANCY LTD,ltd,active,2019-01-25,"4 Willowbourne, Fleet, GU51 5AB",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09335655,TIM PARKER LTD,ltd,active,2014-12-01,"135 Chapel Lane, Farnborough, GU14 9BH",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09188868,SENSEI TRAINING & DEVELOPMENT LTD,ltd,active,2014-08-28,"14 Fernway, Morpeth, NE61 1XJ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11806388,RELIANCE MEDICS LIMITED,ltd,active,2019-02-05,"11806388 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11621190,RMP CONSULTANTS LTD,ltd,active,2018-10-14,"A6 Kingfisher House, Kingsway, Gateshead, NE11 0JQ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,13034675,WEALD RIDGE ADVISORY LIMITED,ltd,active,2020-11-20,"Churchdown Chambers, Tonbridge, TN9 1NR",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11774302,OCTOPUS BUSINESS (UK) LIMITED,ltd,active,2019-01-17,"47 Marsham Street, London, SW1P 3DR",,62020|62090|70229|82990,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11816651,TREX CONSULTANCY LIMITED,ltd,active,2019-02-11,"135 Flat 2 Braemar House, London, W9 1UT",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11681267,BFM LONDON LIMITED,ltd,active,2018-11-16,"135 Withy Mead, London, E4 6JW",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11569124,CETD CONSULTING LTD,ltd,active,2018-09-14,"88 Boundary Road, Hove, BN3 7GA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,15054797,BAHELMI CONSULTANCY LTD,ltd,active,2023-08-07,"52 Russell Hill, Purley, CR8 2JA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11324336,S.TAYLOR LOGISTICS CONSULTING LTD,ltd,active,2018-04-23,"5 Coxwold View, Wetherby, LS22 7PU",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11985314,CLC COMPLIANCE SERVICES LIMITED,ltd,active,2019-05-08,"Flat 93 Nankeville Court, Woking, GU22 7RF",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11943130,TIATC LTD,ltd,active,2019-04-12,"20 St Catherines Court, Rochester, ME1 1GA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11935773,INTEGER DATA LIMITED,ltd,active,2019-04-09,"3 Kendal Close, Chester, CH2 2PR",,62020|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12434325,PROGRESSIVE PURCHASING LTD,ltd,active,2020-01-30,"2 Lockram Cottages Wokefield, Reading, RG7 3AR",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11935762,OTIS MANAGEMENT CONSULTANTS LTD,ltd,active,2019-04-09,"Jubilee House, Townsend Lane, London, NW9 8TZ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11985944,MY TRAINING RESOURCES LTD,ltd,active,2019-05-09,"23 Saxon Close, Gravesend, DA11 8HA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11917623,HCI GROUP OF COMPANIES LTD,ltd,active,2019-04-01,"20-22 Wenlock Road, London, N1 7GU",,64209|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,14100097,SYSTEMS4FOOD LTD,ltd,active,2022-05-11,"24 Howe End, York, YO62 6BD",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07725608,LANDWISE RURAL RESOURCE MANAGEMENT LIMITED,ltd,active,2011-08-02,"Suite 204 Warner House 123 Castle Street, Salisbury, SP1 3TB",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12490286,A J DUNLOP CONSULTING LIMITED,ltd,active,2020-02-28,"27 Church Lane, Wisbech, PE13 5LX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12401270,TOP KEK LTD,ltd,active,2020-01-14,"5 Milne Feild, Pinner, HA5 4DP",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06670576,FLYING-SPIRITS LTD,ltd,active,2008-08-12,"Suite 22 5 Bridge Street, Maidenhead, SL6 1JN",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:66300,14193917,AXIUM EUROPE PARTNER LTD,ltd,active,2022-06-24,"Savoystrand, London, WC2R 0AA",,66190|66300,Activities auxiliary to financial services|Fund management activities,True,25,2026-04-08
+SIC:70229,SC262456,CELEBRE LIMITED,ltd,active,2004-01-26,"Abercorn School, Newton, West Lothian, EH52 6PZ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC585860,SGI SOLUTIONS LIMITED,ltd,active,2018-01-16,"48 Hayfield Road, Kirkcaldy, KY2 5DT",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC587963,ANSPRO LTD,ltd,active,2018-02-07,"28 Bannermill Place, Aberdeen, AB24 5EA",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09418604,LIZBAN CONSULTING LTD.,ltd,active,2015-02-03,"18 Wavel Place, London, SE26 6SF",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC413867,S BIRNIE TRAINING AND DEVELOPMENT LTD,ltd,active,2012-01-04,"Unit 4b Gateway Business Park, Beancross Road, Grangemouth, FK3 8WX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,08800582,RADHA KRISHNA AGS LTD,ltd,active,2013-12-03,"Rex House, London, N12 0DD",,41202|43999|69202|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06590794,ICJR CONSULTANCY LIMITED,ltd,active,2008-05-13,"3 Selwood Way, New Milton, BH25 7SY",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09762552,SANDCREST CONSULTING LIMITED,ltd,active,2015-09-04,"The Dairy, Aston Sandford, HP17 8JB",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,04425004,AZTEC CONSULTANTS (GB) LIMITED,ltd,active,2002-04-25,"12 High Street, Stanford-Le-Hope, SS17 0EY",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,15664493,FUTURE TOOLING HOLDINGS LIMITED,ltd,active,2024-04-20,"8 Yew Tree Close, Stoke On Trent, ST2 7PR",,64209|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09750693,ULTIMATE CLIENTELE LIMITED,ltd,active,2015-08-26,"82 James Carter Road, Bury St. Edmunds, IP28 7DE",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10180235,SAGACITI CONSULTING LTD,ltd,active,2016-05-13,"Unit 4b Winford Business Park, Bristol, BS40 8HJ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11337773,SHAPE YOUR FUTURE ONLINE LTD,ltd,active,2018-04-30,"219 219 Providence Road, Sheffield, S6 5BH",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11582000,SPARKLE CONSULTANCY LTD,ltd,active,2018-09-21,"124 City Road, London, EC1V 2NX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11579423,TECHLAWYER CONSULTANCY LIMITED,ltd,active,2018-09-20,"22 Groveside Court Lombard Road, London, SW11 3RQ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,05820532,MOBIUS SERVICES LIMITED,ltd,active,2006-05-17,"3 Mountbatten Drive, Kettering, NN14 4TX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,05180629,NUCLEUS COMPLETE BUSINESS ADVICE LIMITED,ltd,active,2004-07-15,"17 Hall Lane, Huddersfield, HD8 0QW",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07707662,THE FULL HOUSE FOR FAMILIES LTD,ltd,active,2011-07-18,"Flat 49 Clarewood Court, London, W1H 2NN",,62090|70229|73200,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12199092,AGENT ELITES LTD,ltd,active,2019-09-10,"137 Pycroft Way, London, N9 9XX",,46370|46410|46450|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09220681,INNOVATION DEVELOPMENT (PROJECTS) LIMITED,ltd,active,2014-09-16,"45-49 Greek Street, Stockport, SK3 8AX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,02773512,RUPERT TAYLOR LIMITED,ltd,active,1992-12-14,"The Courtyard Shoreham Road, Steyning, BN44 3TN",,01420|01430|70229|71129,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07740842,DECOUPLE LIMITED,ltd,active,2011-08-15,"Ashlea Merrybank Lane, Leeds, LS17 0EW",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,09423868,FLAME UK BUSINESS SERVICES GROUP LTD,ltd,active,2015-02-05,"White House, Nottingham, NG1 5GF",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,13995668,DMRC CONSULTANCY SERVICES LIMITED,ltd,active,2022-03-22,"The Corner House, Aylesford, ME20 7BG",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06267967,AVSIDYA SERVICES LTD,ltd,active,2007-06-04,"Moulsham Mill, Chelmsford, CM2 7PX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12423136,KPMUK LTD,ltd,active,2020-01-24,"482 Halifax Road, Bradford, BD6 2LH",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10845563,MAUDSLEY LTD,ltd,active,2017-06-30,"44 Hazell Road, Farnham, GU9 7BP",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,08140876,THE WE TECHNOLOGY (UK) LTD,ltd,active,2012-07-12,"Flat 49 Clarewood Court, London, W1H 2NN",,62012|62090|70229|74909,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07183006,NIGHTINGALE CONSULTING LIMITED,ltd,active,2010-03-09,"St Mary's House Crewe Road, Stoke-On-Trent, ST7 2EW",,70229|80100|80300,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11430485,TOWNLEY SERVICES LIMITED,ltd,active,2018-06-25,"28 Sparrowgrove, Winchester, SO21 2DL",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC629666,ARCRYSS CONSULTING LIMITED,ltd,active,2019-05-07,"Jsa Services Ltd, Edinburgh, EH2 2ER",,70229|74990,Management consultancy activities,True,25,2026-04-08
+SIC:70229,02954712,CRYSTAL DESIGN SERVICES LIMITED,ltd,active,1994-08-02,"8 Wincel Road, Cheltenham, GL54 5YE",,62020|63990|70229|85590,Management consultancy activities,True,25,2026-04-08
+SIC:64999,06212184,P K FINANCIAL LIMITED,ltd,active,2007-04-13,"253 Gray's Inn Road, WC1X 8QT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14476315,QUADRA STRAT LIMITED,ltd,active,2022-11-10,"Europa House Suite 4, 1st Floor, Gerrards Cross, SL9 8BQ",,62012|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC593074,JB RECOVERY SERVICES LTD,ltd,active,2018-04-03,"The Old Bakery, 13 North Bute Street The Old Bakery, Coatbridge, ML5 4HE",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC596190,BLUE SKY ADVISORY SOLUTIONS LIMITED,ltd,active,2018-05-03,"200 Flat 3-2b Bath Street, Glasgow, G2 4HG",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11634156,INDUSTRIAL EQUIPMENT FINANCE LIMITED,ltd,active,2018-10-22,"Latimer Cottage, Latimer, HP5 1UA",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14864798,CANTOR FINANCE LIMITED,ltd,active,2023-05-12,"Ground Floor Cooper House, London, N3 2JX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC364977,ROSS RECRUITMENT LTD,ltd,active,2009-09-02,"C/O Rennie Smith & Co, Stirling, FK8 2BX",,46719|52290|64999|78109,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11996770,HABITO MORTGAGE FUNDING NO.1 LIMITED,ltd,active,2019-05-15,"10th Floor 5 Churchill Place, London, E14 5HU",,64922|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,02991776,KOREA INVESTMENT & SECURITIES EUROPE LTD.,ltd,active,1994-11-14,"The Old Rectory, London, EC4R 0DJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC530362,COLLINS MORGAN GROUP LTD,ltd,active,2016-03-22,"Unit 10 Wilson Business Park Queen Elizabeth Avenue, Glasgow, G52 4NQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13038172,MMC FUNDING (US) LIMITED,private-limited-guarant-nsc,active,2020-11-23,"1 Tower Place West, London, EC3R 5BU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,09893590,ARNOLD FINANCIAL LIMITED,ltd,active,2015-11-30,"24 Cecil Avenue, Bournemouth, BH8 9EJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06514449,ANGLEBURY ASSET MANAGEMENT LIMITED,ltd,active,2008-02-26,"3 Greens Barn, Wareham, BH20 4NX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12450486,WESTCOTT FINANCIAL LIMITED,ltd,active,2020-02-07,"Flat 2, 1 Lansdowne Gardens, London, SW8 2EQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:66300,14852862,NEW FOREST FINANCIAL WILLS LTD,ltd,active,2023-05-08,"The Nurseries, Bransgore, BH23 8AL",,64999|65300|66300|70221,Financial Intermediation|Fund management activities|Financial Management,True,25,2026-04-08
+SIC:70229,12563916,KABOKY LTD,ltd,active,2020-04-20,"3 Chapel Street, Hyde, SK14 1LF",,46140|66220|70229|79110,Management consultancy activities,True,25,2026-04-08
+SIC:64999,SC682581,E2BDTRANSPORT LTD,ltd,active,2020-12-01,"6 Leathen Place, Erskine, PA8 6AA",,45320|49410|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,04571251,NICHOLSONS PSP LIMITED,ltd,active,2002-10-23,"Newland House, Weaver Road, LN6 3QN",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10251711,MONEVIUM LTD,ltd,active,2016-06-25,"3rd Floor Waverley House, London, W1F 8GQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,01397666,GOLDCHEVRON LIMITED,ltd,active,1978-11-03,"8 Fore Street, Camelford, PL32 9PG",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12359725,IRIS FINANCIAL SERVICES LTD,ltd,active,2019-12-11,"10 Park View, Leeds, LS26 8UJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12293533,PURE V2 LIMITED,ltd,active,2019-11-01,"12293533: COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12409480,ONLY BRIDGING 365 LIMITED,ltd,active,2020-01-17,"249a Broadway, Bexleyheath, DA6 8DB",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11599561,CREDO COMMERCIAL FINANCE LTD,ltd,active,2018-10-02,"5th Floor, Horton House, Liverpool, L2 3PF",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,15642912,FINEX SOLUTIONS LIMITED,ltd,active,2024-04-13,"128 City Road, London, EC1V 2NX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07325816,IFT WEALTH MANAGEMENT LTD,ltd,active,2010-07-26,"Spring Lea, Halifax, HX2 0TQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14100991,STONEBROOK FINANCIALS LIMITED,ltd,active,2022-05-11,"49 Church Road, Southampton, SO31 6LS",,64999|82990,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06480160,C C D R LTD,ltd,active,2008-01-22,"48 - 52, Liverpool, L18 1DG",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC640843,ZOOM MOTOR FINANCE LTD,ltd,active,2019-09-05,"120 Platinum House, Glasgow, G52 4JZ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11293139,FIRST THOUGHT FINANCIAL SERVICES LTD,ltd,active,2018-04-05,"112-114 High Street, Rickmansworth, WD3 1AQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10794102,RICHMOND LIQUIDITY MANAGEMENT LIMITED,ltd,active,2017-05-30,"Regal House 3rd Floor, C/O Regus, Twickenham, TW1 3QS",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10734440,ACCESS BUSINESS CAPITAL UK LTD,ltd,active,2017-04-21,"9 Barclay Mansions, Bournemouth, BH2 6PE",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06713369,GLYCAN FINANCE CORPORATION LTD,ltd,active,2008-10-02,"C/O The Accountancy Partnership Suite 1 5th Floor City Reach, London, E14 9NN",,08990|09900|46120|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12069592,FARASINA LIMITED,ltd,active,2019-06-25,"30 Swallow Rise, Chatham, ME5 7PR",,14190|64999|68100,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14769528,ABSOLUTE FUNDING PARTNERS LIMITED,ltd,active,2023-03-30,"1a Yattendon Road, Horley, RH6 7BS",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12097238,YOUR FINANCE FRIEND LIMITED,ltd,active,2019-07-11,"Branston Court C/O Quest Accountants, Branston Court, Birmingham, B18 6BA",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12202446,ASQ FINANCIAL SERVICES LIMITED,ltd,active,2019-09-12,"Unit 9 Innovation Centre, Knaresborough, HG5 9AY",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,04435853,LION SUPPLIES LIMITED,ltd,active,2002-05-10,"324-326 High Street, Cheltenham, GL50 3JF",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,02054107,ABN AMRO GLOBAL NOMINEES LIMITED,ltd,active,1986-09-10,"5 Aldermanbury Square, London, EC2V 7HR",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08706742,LKS TRADING LIMITED,ltd,active,2013-09-26,"Langley House, London, N2 8EY",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12099798,JCM FINANCIAL PLANNING LIMITED,ltd,active,2019-07-12,"14a Deepdale Lane, Lincoln, LN2 2LT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12182723,SFW BUSINESS CONSULTANTS LIMITED,ltd,active,2019-08-30,"168 Lee Lane Horwich, Bolton, BL6 7AF",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06904484,YORKSHIRE ASSET FINANCE LIMITED,ltd,active,2009-05-13,"5 Fellside View, Durham, DH7 0BE",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07753010,HAUCK AUFHAUSER IB LIMITED,ltd,active,2011-08-25,"85 Great Portland Street, London, W1W 7LT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12000758,FS CAPITAL LIMITED,ltd,active,2019-05-16,"Maple Tree House, Bromsgrove, B60 2BG",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12140822,MGE FINANCE LTD,ltd,active,2019-08-06,"Number Sixty One, Lowestoft, NR32 1PL",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13391803,SNOWY CROW LTD,ltd,active,2021-05-12,"Suite A, Mildenhall, IP28 7DE",,47910|62030|64999|69109,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC743663,DAWN FINANCIAL LTD,ltd,active,2022-09-06,"6 Honeywell Avenue, Glasgow, G33 6HS",,64922|64999|66220,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14299366,INNOVATION INVESTMENT CAPITAL GP LIMITED,ltd,active,2022-08-16,"2nd Floor Malta House, London, WIJ 0DP",,64999|66190,Financial Intermediation|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:64999,07881450,MILLETT LIMITED,ltd,active,2011-12-14,"Clouds, Roydon, CM19 5LD",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08021309,POPLAR FINANCIAL SERVICES LIMITED,ltd,active,2012-04-05,"Poplar Farm Yate Road, Bristol, BS37 9XY",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11717461,ALDGATE EDUCATION MIDCO 2 LTD,ltd,active,2018-12-07,"Pgl Travel Alton Court, Ross On Wye, HR9 5GL",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11626614,ALDGATE EDUCATION BIDCO LTD,ltd,active,2018-10-16,"Alton Court, Ross-On-Wye, HR9 5GL",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC634150,CHANNEL ASSET FINANCE LIMITED,ltd,active,2019-06-24,"Pavilion 1 (Channel House) The Approach, Glasgow, G69 6GA",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12566310,BUFI LTD,ltd,active,2020-04-21,"68 Galley Lane, Barnet, EN5 4AL",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14058963,SIGNAL HARMONIC LIMITED,ltd,active,2022-04-21,"4th Floor 25 Golden Square, London, W1F 9LU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13995467,ROSSI TALL LTD,ltd,active,2022-03-22,"12 Derry Drive, Nottingham, NG5 8RT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12345617,ARMSTRONG ADVISORY 2 LIMITED,ltd,active,2019-12-03,"Aston House, London, N3 1LF",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08549716,DOHERTY WEALTH MANAGEMENT LTD,ltd,active,2013-05-30,"Fieldgate Farm Hawksbridge Lane, Keighley, BD22 9QY",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14303203,DOULTON MONEY LTD,ltd,active,2022-08-18,"20-22 Wenlock Road, London, N1 7GU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07159060,CITI FX LIMITED,ltd,active,2010-02-16,"183 Fore Street, London, N18 2UD",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,04770411,NEVILLE REGISTRARS LIMITED,ltd,active,2003-05-19,"Neville House, Halesowen, B62 8HD",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14787542,INFINITY NEXUS LTD,ltd,active,2023-04-09,"48 Briar Road, Romford, RM3 8AP",,47990|62090|63910|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12010545,SYLHET EXPRESS LIMITED,ltd,active,2019-05-22,"7 Susannah Street, London, E14 6LS",,52242|64999|79110,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08924576,CANIGOU RENEWABLE ENERGY LTD,ltd,active,2014-03-05,"The Leadenhall Building, London, EC3V 4AB",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10702973,NORTHLAND PRIVATE EQUITY LIMITED,ltd,active,2017-04-03,"Prince Fredrick House, London, W1S 2PP",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10021702,WADES ASSET MANAGEMENT LTD,ltd,active,2016-02-23,"Wades House, Winchester, SO21 3RJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08911165,SUNCAP LIMITED,ltd,active,2014-02-25,"2nd Floor 7 Portman Mews South, London, W1H 6AY",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10898019,ASA MARKET INVESTMENTS LIMITED,ltd,active,2017-08-03,"2nd Floor, Finchley, N3 2JX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,15203475,SUNSAVE HOLDINGS NO.1 LTD,ltd,active,2023-10-11,"71-75 Shelton Street, London, WC2H 9JQ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,09402039,MAGNIFICUS LTD.,ltd,active,2015-01-22,"Dept 302 43 Owston Road, Doncaster, DN6 8DA",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13636936,FUTURE FINANCE FUNDING LIMITED,ltd,active,2021-09-22,"9 Cromwell Court, Ipswich, IP1 1XG",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,08807555,EXCAP LTD,ltd,active,2013-12-09,"288 Jeans Way, Dunstable, LU5 4PT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13335448,LYN WALTON WEALTH MANAGEMENT LTD,ltd,active,2021-04-14,"6 Swift Close, Hornsea, HU18 1LD",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13467439,AFM FINANCE LIMITED,ltd,active,2021-06-21,"68 Grafton Way, London, W1T 5DS",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,SC303462,FINANCIAL PLANNING OBJECTIVES LIMITED,ltd,active,2006-06-06,"64 Eldon Street, Renfrewshire, PA16 7RE",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,09753761,CAVENDISH IRVINE LIMITED,ltd,active,2015-08-28,"5a Ack Lane East, Stockport, SK7 2BE",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14651462,ATLAS HOLDINGS 2023-1 LIMITED,ltd,active,2023-02-09,"10th Floor, 5 Churchill Place, London, E14 5HU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14651622,ATLAS FUNDING 2023-1 PLC,plc,active,2023-02-09,"10th Floor, 5 Churchill Place, London, E14 5HU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12323130,WIREX HOLDINGS LIMITED,ltd,active,2019-11-19,"9th Floor 107 Cheapside, London, EC2V 6DN",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14827081,WOOTTON FINANCIAL SERVICES LTD,ltd,active,2023-04-25,"1st Floor 30 High Street, Chislehurst, BR7 5AS",,64999|66220,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14245030,STONE CREEK GLOBAL LIMITED,ltd,active,2022-07-20,"243 High Street, Beckenham, BR3 1BN",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06268340,EQUALS MONEY UK LIMITED,ltd,active,2007-06-04,"3rd Floor Vintners Place, London, EC4V 3BJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11043688,MARKET BRIDGE II LIMITED,ltd,active,2017-11-02,"2nd Floor, Finchley, N3 2JX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,11043277,MARKET BRIDGE HOLDINGS LIMITED,ltd,active,2017-11-02,"2nd Floor, Finchley, N3 2JX",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07131446,EQUALS CONNECT LIMITED,ltd,active,2010-01-20,"3rd Floor 68 Upper Thames Street, London, EC4V 3BJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14095126,BILLPAY LIMITED,ltd,active,2022-05-09,"143 Strand, London, WC2R 1JA",,62012|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,15733333,GOLDSTONE & CO PARTNERS LTD,ltd,active,2024-05-21,"85 Great Portland Street, London, W1W 7LT",,46190|46210|64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14836004,MILEWAY UK FINANCING HOLDINGS LIMITED,ltd,active,2023-05-01,"10th Floor 5 Churchill Place, London, E14 5HU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13412611,WILLINE LTD,ltd,active,2021-05-21,"5 St Edmund Close, Norwich, NR14 8RJ",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07640378,FREEDOMPEAK CAPITAL LTD,ltd,active,2011-05-19,"Flat E, Oxted, RH8 0AR",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,10496447,JARROVIAN TRUST AND ESTATE SERVICES LIMITED,ltd,active,2016-11-25,"Viewpoint Accountants Ltd Saxon House, Chelmsford, CM1 1HT",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,13753796,PENINSULA MORTGAGES LTD,ltd,active,2021-11-19,"12 Park Trielin, Redruth, TR15 2FT",,64999|66190,Financial Intermediation|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:64999,04596238,BOWATER FINANCE LIMITED,ltd,active,2002-11-20,"S202 Weston House The Maltings, Sawbridgeworth, CM21 9FP",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,12672677,KEY2 BUSINESS FINANCE LIMITED,ltd,active,2020-06-15,"The Old Mill, Kings Mill, South Nutfield, RH1 5NB",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,07570964,KNIGHTSBRIDGE WEALTH MANAGEMENT LIMITED,ltd,active,2011-03-21,"Office 81 Bowers Mill, Halifax, HX4 0AD",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:66190,04442605,SWISS RE FINANCE (UK) PLC,plc,active,2002-05-20,"30 St. Mary Axe, London, EC3A 8EP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08234037,HUBERT CHILD LIMITED,ltd,active,2012-09-28,"28 The Spain, Petersfield, GU32 3LA",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10138673,NPC2016 LIMITED,ltd,active,2016-04-21,"30 Heol Pentre'R Felin, Llantwit Major, CF61 2XS",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,01631337,TAKAFOL (U.K.) LTD,ltd,active,1982-04-26,"1620 Coventry Road, Birmingham, B26 1AL",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,14103957,SSASCO ADMINISTRATION LIMITED,ltd,active,2022-05-12,"2h North Sands Business Centre, Sunderland, SR6 0QA",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12154053,ETHICAL EQUITY LIMITED,ltd,active,2019-08-13,"40 Berkeley Square, Bristol, BS8 1HP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04731839,ROCKINGHAM FINANCIAL SERVICES LTD,ltd,active,2003-04-11,"Highfield House 17 Ulceby Road, Ulceby, DN39 6SE",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11341336,BISILA LIMITED,ltd,active,2018-05-02,"64 Bell Green Lane, London, SE26 5TE",,66190|96090,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12251407,RAYCO GROUP LTD,ltd,active,2019-10-09,"12 Maelfa, Cardiff, CF23 9FN",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,07240897,RA CONVERY LIMITED,ltd,active,2010-04-30,"16 Wheelers Orchard, Gerrards Cross, SL9 0HL",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09623642,CAPTEC INVESTMENTS LIMITED,ltd,active,2015-06-04,"214 Kingston Road, Epsom, KT19 0SQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09411290,HUGH JAMES CONSULTANCY LIMITED,ltd,active,2015-01-28,"85 Great Portland Street, London, W1W 7LT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC574265,FGM CONTRACTS LTD,ltd,active,2017-08-21,"272 Bath Street, Glasgow, G2 4JR",,66190|66210|74901|82110,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:64999,12606125,WEALTH MATTERS TRUSTS LIMITED,ltd,active,2020-05-15,"727 Capability Green, Luton, LU1 3LU",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:64999,06575289,BM (SOUTH COAST) LIMITED,ltd,active,2008-04-24,"Suite 6 Furzehall Farm, Fareham, PO16 7JH",,64999|74909,Financial Intermediation,True,25,2026-04-08
+SIC:64999,14824846,HILLTOP CAPITAL ARRANGERS LIMITED,ltd,active,2023-04-25,"Aston House, London, N3 1LF",,64999,Financial Intermediation,True,25,2026-04-08
+SIC:66190,14839611,FORESTERS FINANCE LIMITED,ltd,active,2023-05-02,"13 Foresters Way, Crawley, RH11 9GS",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,13169410,INVESTOR INFORMATION LIMITED,ltd,active,2021-02-01,"124 City Road, London, EC1V 2NX",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10621484,RINISHA LTD,ltd,active,2017-02-15,"150 Tuckton Road, Bournemouth, BH6 3JX",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11412752,MORAN FINANCIAL LTD,ltd,active,2018-06-13,"Jubilee House, Lytham St.Annes, FY8 5FT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,NI650076,PROBATUM NI LTD,ltd,active,2018-01-05,"76-78 Church Street, Craigavon, BT62 3EU",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,05194216,OWENICO FINANCE LIMITED,ltd,active,2004-07-30,"1 Overbury Street, London, E5 0AN",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08499136,FROGGATT RESOURCES OPTIMALLY GIVEN LIMITED,ltd,active,2013-04-22,"Town Wall House, Colchester, CO3 3AD",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11226540,K & L MILLER PROPERTY FINANCE LTD,ltd,active,2018-02-27,"20 Field Lane, Warrington, WA4 5JR",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11983232,HOLMES DORAN LTD,ltd,active,2019-05-08,"Harrison House Sheep Walk, Biggleswade, SG18 9RB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10315613,KAYE VENTURES FINANCE LIMITED,ltd,active,2016-08-05,"First Floor, London, EC4M 7RD",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,06244816,SHORE CAPITAL (JAPAN) LIMITED,ltd,active,2007-05-11,"Cassini House, London, SW1A 1LD",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,07948251,NEIL SAVJANI WEALTH MANAGEMENT LIMITED,ltd,active,2012-02-14,"2 Merus Court, Leicester, LE19 1RJ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10152530,INDEPENDENT RESEARCH FORUM LIMITED,ltd,active,2016-04-28,"Suite 5, 4th Floor 3 Universal Square, Manchester, M12 6JH",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11160258,DSR FINANCIAL SERVICES LTD,ltd,active,2018-01-19,"65-69 Attn Busy Bees, Hereford, HR4 9SP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,13407210,NELFIN LTD,ltd,active,2021-05-18,"1 Peach Street, Wokingham, RG40 1XJ",,65110|66190|66220|66290,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12410840,RENEWITY LIMITED,ltd,active,2020-01-17,"1 The Courtyard Poundfield Lane, Hailsham, BN27 3TD",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10314402,REDDIMORTGAGES LIMITED,ltd,active,2016-08-05,"15 High Street, Lydney, GL15 5DP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC573285,BRICKS AND MORTAR MORTGAGES LIMITED,ltd,active,2017-08-09,"127 Dowanhill Street, Glasgow, G12 9DN",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC446950,A2R EUROPE LTD,ltd,active,2013-04-08,"4 Downie Grove, Edinburgh, EH12 7AX",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04759064,PAULINE NEVE & ASSOCIATES LTD,ltd,active,2003-05-09,"1 King Hill, West Malling, ME19 4PL",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08184684,EVE RESOURCES LTD,ltd,active,2012-08-20,"5 Ffordd Daniel Lewis, Cardiff, CF3 0RQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC367766,ACHIEVE FINANCIAL PLANNING LTD,ltd,active,2009-10-30,"62 Academy Street, Inverness, IV1 1LP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,15282270,KENNY FINANCIAL PLANNING LIMITED,ltd,active,2023-11-14,"8 Stapeley View, Newcastle Upon Tyne, NE3 3QY",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10735693,NIVEX CAPITAL LIMITED,ltd,active,2017-04-24,"Devonshire House, London, W1J 8AJ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04926164,LIBERTY INTER CORPORATION LIMITED,ltd,active,2003-10-08,"5 Hensley Point 5 Hensley Point, London, E9 5BE",,46190|66190|70229|85590,Activities auxiliary to financial services|Management consultancy activities,True,25,2026-04-08
+SIC:66190,06307211,LLOYD CLARKE LTD,ltd,active,2007-07-09,"8a Parsons Street, OX16 5LW",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,NI606179,INVESTMENT & MORTGAGE CENTRE LIMITED,ltd,active,2011-02-15,"Ormeau House, Belfast, BT7 1SH",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09529753,HELEN JANE EVANS LIMITED,ltd,active,2015-04-08,"Apple Acre, Bridgend, CF35 5HN",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,05128697,SL MORTGAGE FUNDING NO 1 LIMITED,ltd,active,2004-05-14,"9 Wellington Road, Prenton, CH43 2JQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08497093,LIFA (UK) LIMITED,ltd,active,2013-04-19,"61 Bohemia Road, St. Leonards-On-Sea, TN37 6RG",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04848594,T. HILL ASSOCIATES LTD,ltd,active,2003-07-29,"Lindrick House, 205 Outgang Lane, Sheffield, S25 3QY",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11986792,ORYX REAL ESTATE PARTNERS UK LIMITED,ltd,active,2019-05-09,"Third Floor, London, W1U 1PB",,66190|68320,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,07733197,WYT LTD,ltd,active,2011-08-08,"Office 9, Dalton House, London, SW19 2RR",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,06296875,MAUVE ACCOUNTANCY LIMITED,ltd,active,2007-06-29,"Cherry Orchard House, Rochford, SS4 1PP",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,13295388,WR ETHICAL LIMITED,ltd,active,2021-03-26,"Desklodge House Desklodge House, Bristol, BS1 2NL",,64922|66190|66220,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09583699,SHEPHERD FINANCIAL GUIDANCE LIMITED,ltd,active,2015-05-11,"Dunlop House 23a Spencer Road, New Milton, BH25 6BZ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11060835,PIVOT LENDING NO.4 LIMITED,ltd,active,2017-11-13,"17-19 Maddox Street, London, W1S 2QH",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09237025,CLAYDON MORTGAGE SERVICES LIMITED,ltd,active,2014-09-26,"5 Newell Rise, Ipswich, IP6 0AQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09707427,VT TRADING LIMITED,ltd,active,2015-07-28,"1110 Elliott Court Coventry Business Park, Coventry, CV5 6UB",,64999|66190,Financial Intermediation|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11506333,HALLBROOK PLANNING LTD,ltd,active,2018-08-08,"Suite 0458, Unit D3 Mod Village Baron Way, Carlisle, CA6 4BU",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,05898319,STOCKEASEY MORTGAGES LIMITED,ltd,active,2006-08-07,"The Old Coach House, Rugeley, WS15 2EL",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,NI033080,NORTH FINANCE LIMITED,ltd,active,1997-10-13,"203 York Road, Belfast, BT15 3HB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12849494,SFINX CONSULTING LTD,ltd,active,2020-09-01,"21 The Pastures, Hatfield, AL10 8PB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10842940,WATER LANE 4 IP LIMITED,ltd,active,2017-06-29,"15a Water Lane, Cambridge, CB24 9XW",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11340762,DENDRO PRIVATE WEALTH LIMITED,ltd,active,2018-05-02,"3rd Floor, London, EC2N 2QQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,07443979,MARTYN HALL LIMITED,ltd,active,2010-11-18,"24a Longley Road, Gillingham, ME8 7RU",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04573674,IMATCH MORTGAGES LIMITED,ltd,active,2002-10-25,"81a High Street, Teddington, TW11 8HG",,64999|65110|65201|66190,Financial Intermediation|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12133255,WINVESTA LTD,ltd,active,2019-08-01,"27 Old Gloucester Street, London, WC1N 3AX",,62012|66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,11008147,HUDSON ROSE SERVICES LTD,ltd,active,2017-10-11,"7 Bridge Street, Stroud, GL6 0AA",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,13108320,GENERAL MORTGAGES LTD,ltd,active,2021-01-04,"30 Field Close, Derby, DE72 3HJ",,66190|66220,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,15757021,SURBEK INTERNATIONAL LTD,ltd,active,2024-06-03,"9 Ingram Way, Greenford, UB6 8QG",,64999|66190,Financial Intermediation|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09758487,REGENCY HOUSE WEALTH MANAGEMENT GROUP LIMITED,ltd,active,2015-09-02,"Ground Floor Reading Bridge House, Reading, RG1 8LS",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04457324,FISCAL HOUSE LIMITED,ltd,active,2002-06-10,"Fiscal House, 2 Havant Road, Hampshire, PO10 7JE",,66190|66220,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08494234,AIDENPRO LIMITED,ltd,active,2013-04-18,"Flat 4 Salisbury House, Stanmore, HA7 3QR",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12724375,AFRIKMONEY LTD,ltd,active,2020-07-06,"Regus- Office 239 200 Brook Drive, Reading, RG2 6UB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,09357813,ESSENTIAL FINANCIAL SOLUTIONS LIMITED,ltd,active,2014-12-17,"1st Floor Cloister House Riverside, Manchester, M3 5FS",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10179123,FIDENTI WEALTH PROTECTION LTD,ltd,active,2016-05-13,"19 Lambert Close, Swindon, SN5 8NY",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12694856,FD INVESTMENT GROUP LTD,ltd,active,2020-06-24,"Office 2 Bennet's House, Harpenden, AL5 2HU",,41100|66190|68209,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC219616,GILL FINANCIAL SERVICES LIMITED,ltd,active,2001-05-29,"36 Baltic Street, Montrose, DD10 8EX",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,SC400902,PENTA PARTNER LIMITED,ltd,active,2011-06-03,"300 Bath Street, Glasgow, G2 4JR",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04589122,HARRINGTON & HORNE FINANCIAL SERVICES LIMITED,ltd,active,2002-11-13,"31 Southdown Avenue, London, W7 2AG",,66190|66220|66290,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,15737245,PLATTS WEALTH MANAGEMENT LTD,ltd,active,2024-05-23,"Unit N, Ashby-De-La-Zouch, LE65 2AB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,03783854,XS INSURANCE SERVICES LIMITED,ltd,active,1999-06-07,"Rivergate House, Taunton, TA1 2PE",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08286867,SENECA CAPITAL CARRY GP LIMITED,ltd,active,2012-11-08,"9 The Parks, Newton-Le-Willows, WA12 0JQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:70221,06686188,CW.FD LIMITED,ltd,active,2008-09-02,"64 Whitmore Gardens, London, NW10 5HJ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,06378040,CHARLES JAMES CONSULTING LTD,ltd,active,2007-09-21,"Thorpe House, 9 School Lane, South Yorkshire, S18 1RY",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,10752974,ORANGE TREE FINANCIAL SERVICES LIMITED,ltd,active,2017-05-03,"2 Rhum Mews, Wickford, SS12 9JU",,70221,Financial Management,True,25,2026-04-08
+SIC:66190,07755792,PYX MARKETS LIMITED,ltd,active,2011-08-30,"First Floor, London, W1W 7LT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,14320337,BUNKERPAY LTD,ltd,active,2022-08-26,"3rd Floor 207 Regent Street, London, W1B 3HH",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,13318317,PHARE WEALTH LTD,ltd,active,2021-04-07,"International House, London, EC3V 3NG",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,02585129,RESEARCH INDEPENDENT FINANCIAL SERVICES LIMITED,ltd,active,1991-02-22,"Ellerbeck House, Darlington, DL3 7BQ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10176527,BROOK & MAYO TRUSTEES LIMITED,ltd,active,2016-05-12,"15 Newland, Lincoln, LN1 1XG",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,03142182,EXCLUSIVE CONNECTIONS LIMITED,ltd,active,1995-12-29,"Rutland House, Peterborough, PE2 6PZ",,66190|82990,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10688977,SJT ADVISORY LIMITED,ltd,active,2017-03-24,"Granville House, Wolverhampton, WV1 4SB",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04371817,ELITE FINANCIAL PLANNING LIMITED,ltd,active,2002-02-12,"45 Shepherds Mead, Westbury, BA13 4DX",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10775862,THOMAS WEALTH ADVISORY LTD,ltd,active,2017-05-17,"1 Dundonald Avenue, Warrington, WA4 6JT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,04667518,BOONE HALL LIMITED,ltd,active,2003-02-17,"Oinoussai, Meopham, DA13 0PY",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,08094437,CLARENCE PLACE WEALTH MANAGEMENT LTD,ltd,active,2012-06-06,"Mission House, 19 Royal Pier Road, Gravesend, DA12 2BD",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,07730917,ROGER HOOPER LTD,ltd,active,2011-08-05,"4 Yeo Bank Business Park, Clevedon, BS21 6UW",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,05439258,ASHLEA FINANCIAL PLANNING LIMITED,ltd,active,2005-04-28,"123 Promenade, Cheltenham, GL50 1NW",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,12048068,HERU FINANCE LTD,ltd,active,2019-06-13,"51 Parade Court, Bristol, BS5 7TB",,66190|70229,Activities auxiliary to financial services|Management consultancy activities,True,25,2026-04-08
+SIC:66190,10257243,WRITE WILLS FOR YOU LIMITED,ltd,active,2016-06-29,"45b Ebley Road, Stonehouse, GL10 2LW",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,03764681,DE HAVILLAND GROUP LIMITED,ltd,active,1999-05-05,"C/O Bareham & Co, London, E14 4QZ",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:70229,10795651,JACKS DIGITAL LTD.,ltd,active,2017-05-31,"Mha House Charter Court, Phoenix Way, Swansea, SA7 9FS",,62012|62020|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10780140,B.J.E L&D LTD,ltd,active,2017-05-19,"9 Hall Drive, Liverpool, L32 1TA",,70229|82990,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10080791,FP INSIEME LIMITED,ltd,active,2016-03-23,"19 Tanfield Lane, Northampton, NN1 5RN",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10207222,CALIBRE CONSULTING GROUP LIMITED,ltd,active,2016-05-31,"Flat 103 Rossmore Court Park Road, London, NW1 6XZ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,10373307,JAIMAA CONSULTANT LTD,ltd,active,2016-09-13,"1 Bramley Close, Maidenhead, SL6 3HQ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11626340,A TO Z TRADING LTD,ltd,active,2018-10-16,"117 Reidhaven Road, London, SE18 1BX",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,11772504,8BRIDGES CONSULTING LTD.,ltd,active,2019-01-17,"15 Cavalli Apartments, Watford, WD18 7BJ",,70229|78300,Management consultancy activities,True,25,2026-04-08
+SIC:70229,06708383,KUNDI CONSULTING LIMITED,ltd,active,2008-09-25,"28 Rydal Drive, Bexleyheath, DA7 5EE",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07795943,ACCOUNT MANAGEMENT EXPERT LIMITED,ltd,active,2011-10-04,"Old Bank House, Sturminster Newton, DT10 1AN",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12967045,ODIN FINANCE LIMITED,ltd,active,2020-10-22,"29 Barnard Road, London, SW11 1QT",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,12549088,HH SPORTS CONSULTANCY LIMITED,ltd,active,2020-04-06,"Milburn House Hexham Business Park, Hexham, NE46 3RU",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,NI050108,MCMILLEN CONSULTANTS LIMITED,ltd,active,2004-03-30,"At The Offices Of Falconer Stewart, Ballyhackamore, BT4 3EU",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70221,14754598,LIANNE LEE FINANCIAL PLANNING LTD,ltd,active,2023-03-24,"14 Mucklow Hill, Halesowen, B62 8BW",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,02820293,TRIBAL ELDERS LIMITED,ltd,active,1993-05-21,"10 Clifton Terrace, Winchester, SO22 5BJ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11318468,LECHLADE FD SERVICES LTD,ltd,active,2018-04-19,"Pingle Barn, Lechlade, GL7 3GA",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09473204,MOBEDINE ADVISORS LIMITED,ltd,active,2015-03-05,"155 Oxford Gardens, London, W10 6NE",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,02610380,FIRST PROFESSIONAL SERVICES LIMITED,ltd,active,1991-05-14,"5 Lynwood Road, Epsom, KT17 4LF",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,13583019,SSS SERVICES LTD,ltd,active,2021-08-24,"4th Floor Radius House, Watford, WD17 1HP",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,05109626,LONDON BUSINESS CONSULTING LIMITED,ltd,active,2004-04-22,"Sobus Hub, London, W10 6TT",,69201|69203|70221|74909,Financial Management,True,25,2026-04-08
+SIC:70221,04740486,MOJOBO INVESTMENTS LIMITED,ltd,active,2003-04-22,"Summit House, London, NW3 6BP",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,09800916,PMD ACCOUNTING SERVICES LIMITED,ltd,active,2015-09-30,"4 Newcrest Close, Derby, DE23 4YP",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,03562993,ANN PETTENGELL GOLD HELM LTD,ltd,active,1998-05-13,"114 Firle Road, Seaford, BN25 2JD",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,08067540,WENTWORTH FINANCIAL PLANNING LIMITED,ltd,active,2012-05-14,"237 Tullibardine Road, Sheffield, S11 7GQ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12175998,RICHMOND ACCOUNTING & FINANCE SERVICES LTD,ltd,active,2019-08-27,"152 Percy Road, Twickenham, TW2 6JF",,69201|69203|70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12224143,KYTSON MORTGAGES & FINANCE LIMITED,ltd,active,2019-09-24,"Kytson Barn Little Street, Banbury, OX17 2SG",,70221,Financial Management,True,25,2026-04-08
+SIC:66190,10321258,NEAR FUTURE LIMITED,ltd,active,2016-08-09,"Jubilee House, Lytham St. Annes, FY8 5FT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,10415876,SOC ACTUARIAL SERVICES LTD,ltd,active,2016-10-07,"4 President Drive, London, E1W 2JH",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,15764769,LINLEY BLACK WEALTH MANAGEMENT LTD,ltd,active,2024-06-06,"1 Kings Avenue, London, N21 3NA",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66190,15763136,KEMOFPAY LIMITED,ltd,active,2024-06-05,"Unit 29 Highcroft Industrial Estate Enterprise Road, Waterlooville, PO8 0BT",,66190,Activities auxiliary to financial services,True,25,2026-04-08
+SIC:70221,10234731,AVEKA FINANCIAL SERVICES LTD,ltd,active,2016-06-16,"C/O Aacsl Accountants 1st Floor North Westgate House, Harlow, CM20 1YS",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,NI663659,AG CAPITAL LTD,ltd,active,2019-08-12,"38 Gortin Road, Omagh, BT79 7HX",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,14067547,AZUR PINEDE LIMITED,ltd,active,2022-04-25,"14 Longcroft House, Welwyn Garden City, AL8 6PZ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09003475,INTERIM LINK LIMITED,ltd,active,2014-04-22,"29 St. Pauls Close, South Ockendon, RM15 4SH",,62020|70221,Financial Management,True,25,2026-04-08
+SIC:70221,14575327,AMIZESH LIMITED,ltd,active,2023-01-06,"11 Stafford Close, Maidenhead, SL6 0PY",,70221|70229|84110,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,13461738,DXB PAY LTD,ltd,active,2021-06-17,"Alverstone Avenue, London, England,, London, SW19 8BD",,62012|70221,Financial Management,True,25,2026-04-08
+SIC:70221,11370130,DLR FINANCIAL LTD,ltd,active,2018-05-18,"76 Bushwood Road, Richmond, TW9 3BQ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07187622,NUMERARIUS CONSULTING LIMITED,ltd,active,2010-03-12,"Flat 10 51 Tanner Street, London, SE1 3PL",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,06835279,FIRST-DOLLAR GROSS LIMITED,ltd,active,2009-03-03,"Flat 9 Empire House, London, SW7 2RU",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,08109015,BUSINESS CONSULTING ASSOCIATES LTD,ltd,active,2012-06-18,"21-23 Mossop Street, London, SW3 2LY",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,13442359,FAIRWAYS BUSINESS CONSULTANCY LTD,ltd,active,2021-06-07,"180-182 Mile End Road, Tower Hamlets, E1 4LJ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,14440524,BUCK FINANCIAL LTD,ltd,active,2022-10-25,"Brookfield Court Selby Road, Leeds, LS25 1NB",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,13410634,BEN LUDWINSKI LIMITED,ltd,active,2021-05-20,"New Connexion House 2 Marsh Lane, Huddersfield, HD8 8AE",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,13012563,KERNOW FINANCIAL PLANNING LTD,ltd,active,2020-11-11,"10-12 Race Hill, Launceston, PL15 9BA",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11317358,ALZUTI LTD,ltd,active,2018-04-18,"27 Portmore Park Road, Weybridge, KT13 8ET",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10545870,AQS HOLDINGS LTD,ltd,active,2017-01-04,"85-87 Vauxhall Road, Liverpool, L3 6BN",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07410480,LHA FINANCIAL LIMITED,ltd,active,2010-10-18,"86-90 Paul Street, London, EC2A 4NE",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,11748073,IFA MANAGEMENT CONSULTANCY LTD,ltd,active,2019-01-03,"Maple Suite Newton Road, Newton Abbot, TQ12 5EG",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,08893896,C RILEY CONSULTANCY LTD,ltd,active,2014-02-13,"3 Stirling Drive, Wigan, WN4 0UG",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,04431295,ALTORIAN FINANCIAL MANAGEMENT LIMITED,ltd,active,2002-05-03,"Suite 1, Dairy Barn Mews Summers Park, Manningtree, CO11 2BZ",,69201|70221,Financial Management,True,25,2026-04-08
+SIC:70221,11375809,TIM GOW WEALTH MANAGEMENT LIMITED,ltd,active,2018-05-22,"205 Outgang Lane, Sheffield, S25 3QY",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07599942,ARZIGA LTD,ltd,active,2011-04-11,"The Barn 11 Mallory Place, Melksham, SN12 6YB",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12151170,R3A CONSULTING LTD,ltd,active,2019-08-12,"4 Mellowstone Drive, Manchester, M21 7RJ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,NI678972,WEL SONFEY LIMITED,ltd,active,2021-05-04,"142a Saintfield Road, Lisburn, BT27 6UH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11507534,ULTIMATEFC LTD,ltd,active,2018-08-08,"3 Ryecroft Avenue, Clayhall, IG5 0UQ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10685123,STJ ADVISORS GROUP LIMITED,ltd,active,2017-03-22,"Eagle House, London, SW1Y 6HA",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,07576237,BLAXTON MANAGEMENT LIMITED,ltd,active,2011-03-24,"Metropolitan House, Swalwell, NE16 3AS",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12138132,BAIGTANZ LIMITED,ltd,active,2019-08-05,"36 Harrington Road, Worcester, WR2 5HD",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12042535,L&J PAY LIMITED,ltd,active,2019-06-10,"10 St. Andrews Drive, Liverpool, L36 8JF",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09532558,ZABEYSABEY LTD,ltd,active,2015-04-09,"Harmony House, Thames Ditton, KT7 0BU",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12122953,ASPECT WEALTH LTD,ltd,active,2019-07-25,"Courtyard House, Godalming, GU7 1EY",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11251158,AC MORTGAGE SERVICES LIMITED,ltd,active,2018-03-13,"Perrymount Property Services, Haywards Heath, RH16 3XH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,04871634,ANDERSON FINANCIAL LIMITED,ltd,active,2003-08-19,"3rd Floor 21 Perrymount Road, Haywards Heath, RH16 3TP",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12138944,PROMPT PAY SERVICES LTD,ltd,active,2019-08-05,"3rd Floor, 207 Regent Street, London, W1B 3HH",,70221|78300,Financial Management,True,25,2026-04-08
+SIC:70221,12138952,NIROLA LTD,ltd,active,2019-08-05,"40 Belvedere Road, London, E10 7NP",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12148881,BLACK BADGER SYSTEMS LTD,ltd,active,2019-08-09,"66 Parrock Street, Gravesend, DA12 1HF",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,14108813,ANI INVESTMENTS LIMITED,ltd,active,2022-05-16,"20-22 Wenlock Road, London, N1 7GU",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12164020,CAPS DEBT LTD,ltd,active,2019-08-19,"411 Chorley Old Road, Bolton, BL1 6AH",,70221|82200|82990,Financial Management,True,25,2026-04-08
+SIC:70221,12168640,NAILA MASOOD LIMITED,ltd,active,2019-08-21,"2 Hartley Drive, Nelson, BB9 0WD",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11982062,BUSINESS DECISION INSIGHTS LTD,ltd,active,2019-05-07,"58 Edgehill Street, Reading, RG1 2PX",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,03980196,ASIASETUP LIMITED,ltd,active,2000-04-26,"12 The Broadway, Huntingdon, PE27 5BN",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12168904,AYMANK LIMITED,ltd,active,2019-08-21,"701 Hannafin Tower, Greater London, SW17 0NS",,70221|96090,Financial Management,True,25,2026-04-08
+SIC:70221,09185323,DESIRE WEALTH MANAGEMENT LIMITED,ltd,active,2014-08-21,"Bury Lodge, Stowmarket, IP14 1JA",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12181968,O A MAHMOOD CONTRACTING LTD,ltd,active,2019-08-30,"12181968 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07576282,NEIL MENEAR WEALTH MANAGEMENT LIMITED,ltd,active,2011-03-24,"61 Hamilton Square, Birkenhead, CH41 5AT",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11990642,HR FINANCES YORKSHIRE LIMITED,ltd,active,2019-05-13,"27 Northallerton Road, Bradford, BD3 0JD",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,14065748,THOMPSON ACTUARIAL LTD,ltd,active,2022-04-25,"Brookfield Court Selby Road, Leeds, LS25 1NB",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,02382336,SKAGEN HOLDINGS UK LIMITED,ltd,active,1989-05-10,"Farncombe House, Worcestershire, WR12 7LJ",,70100|70210|70221|82110,Financial Management,True,25,2026-04-08
+SIC:70221,06691566,THIRDANT MARLER LIMITED,ltd,active,2008-09-08,"Laneside Cottage Town Head, Lancaster, LA2 8BS",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,14856303,MK INT HOLDINGS LTD,ltd,active,2023-05-09,"3 The Rising, Billericay, CM11 2HN",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10753065,X TWENTY NINE LIMITED,ltd,active,2017-05-03,"Ebenezer House, Newcastle Under Lyme, ST5 2BE",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11986439,MRJ CAPITAL LIMITED,ltd,active,2019-05-09,"141 Brunswick Road, London, W5 1AH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,15720490,WEST-EAST STRATEGY LTD,ltd,active,2024-05-14,"47-49 Park Royal Road, London, NW10 7LQ",,62012|62020|70210|70221,Financial Management,True,25,2026-04-08
+SIC:70221,SC169431,MANN TRADING & CONSULTANCY LIMITED,ltd,active,1996-10-30,"464 Clarkston Road, G44 3QE",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12374838,PRRP CONSULTANTS LIMITED,ltd,active,2019-12-23,"3 Bass Mews, London, SE22 0ED",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07860086,ARDEN GREEN MANAGEMENT LIMITED,ltd,active,2011-11-24,"18 Hyde Gardens, Eastbourne, BN21 4PT",,70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12389835,ACUTE BUSINESS CONSULTANTS LTD,ltd,active,2020-01-07,"The Panorama, Ashford, TN24 8EZ",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,08182040,IEMT LIMITED,ltd,active,2012-08-16,"44 Ashcombe Gardens, Weston-Super-Mare, BS23 2XD",,13300|47910|70221|70229,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,12340125,BENNETT & BROWN DEPUTYSHIP SERVICES LTD,ltd,active,2019-11-29,"3 Hill View, Stalybridge, SK15 2TH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09570409,JORCAP LTD,ltd,active,2015-05-01,"Riverbank House, London, SW6 3JD",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07100597,COMMUNITY BENEFIT ACTION C.I.C.,ltd,active,2009-12-10,"30 Union Road, Croydon, CR0 2XU",,69201|70221|70229|88990,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,14097897,STARTUP CONSULTING SERVICES LTD,ltd,active,2022-05-10,"20-22 Wenlock Road, London, N1 7GU",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,07520217,381A IDRISSI LIMITED,ltd,active,2011-02-07,"35 Dorset Mount, Leeds, LS8 3QX",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09588819,JV MINNS LTD,ltd,active,2015-05-13,"13 Irwin Drive, Wilmslow, SK9 3JS",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10001805,P E ANDERSON LIMITED,ltd,active,2016-02-12,"53 Lingtree Road, Liverpool, L32 0RN",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10040034,CADENCE WEALTH LTD,ltd,active,2016-03-03,"19 Collins Street, Blackheath, SE3 0UG",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12475559,ALIGN FINANCIAL LIMITED,ltd,active,2020-02-21,"85 Great Portland Street, London, W1W 7LT",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,SC577430,W AMJID CONSULTANCY LIMITED,ltd,active,2017-09-28,"4d Auchingramont Road, Hamilton, ML3 6JT",,62020|70221,Financial Management,True,25,2026-04-08
+SIC:70221,14083863,GROWTH CREDIT PARTNERS LIMITED,ltd,active,2022-05-03,"Meridien House, London, W1H 5QL",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12846804,AIO APP LIMITED,ltd,active,2020-08-31,"4th Floor, 18 St. Cross Street, London, EC1N 8UN",,62090|70221,Financial Management,True,25,2026-04-08
+SIC:70221,14082106,WE ARE DEFY LIMITED,ltd,active,2022-05-03,"3 New Park Place, Derby, DE24 8DZ",,70210|70221|70229|73120,Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:70221,11923073,DD IT SERVICES LTD,ltd,active,2019-04-03,"Office 15 Ideal Offices, Peterborough, PE2 8AN",,62020|62030|62090|70221,Financial Management,True,25,2026-04-08
+SIC:70221,14087296,NOTTINGHAM CONSULTING LIMITED,ltd,active,2022-05-05,"Newstead House, Nottingham, NG5 1AP",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,10937728,SHERINGHAM CROFT MANAGEMENT LTD,ltd,active,2017-08-30,"46 Holway Road, Sheringham, NR26 8HR",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,12023080,GLOBAL PRIVATE EQUITY LIMITED,ltd,active,2019-05-29,"Bank Chambers, Stockport, SK1 1AR",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,09999784,HODGKINSON CONSULTANCY SERVICES LTD,ltd,active,2016-02-11,"19 Lincoln Square, Widnes, WA8 6SR",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,11768206,BILL AGENCY LTD,ltd,active,2019-01-15,"189 Holdenhurst Road, Bournemouth",,70221|96090,Financial Management,True,25,2026-04-08
+SIC:70221,12973660,BEECHWAY FINANCIAL LTD,ltd,active,2020-10-26,"38 Coniston Drive, Manchester, M24 5RH",,70221,Financial Management,True,25,2026-04-08
+SIC:70221,NI628743,CR FINANCIAL PLANNING LIMITED,ltd,active,2015-01-16,"4 Rhanbuoy Gardens, Holywood, BT18 0DZ",,70221,Financial Management,True,25,2026-04-08
+SIC:66120,14697631,BULI LTD,ltd,active,2023-03-01,"27 Old Gloucester Street, London, WC1N 3AX",,66120|82990,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,03971855,GAMCO ASSET MANAGEMENT (UK) LIMITED,ltd,active,2000-04-13,"3 St. James's Place, London, SW1A 1NP",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11588487,IKHOI TECH LIMITED,ltd,active,2018-09-25,"159 Tudor Way, Rickmansworth, WD3 7HN",,62020|66120|82990,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14153402,RUBY EXCHANGE LIMITED,ltd,active,2022-06-06,"8 Pembridge Road, London, W11 3HL",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,09794761,LEED TRADING LIMITED,ltd,active,2015-09-25,"1-3 High Street, Great Dunmow, CM6 1UU",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13095839,TRITALION LIMITED,ltd,active,2020-12-22,"49 Greek Street, London, W1D 4EG",,64991|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,10840265,ISLAY INVESTMENTS LIMITED,ltd,active,2017-06-28,"16 Great Queen Street, London, WC2B 5AH",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14909391,LONDON RESEARCH AND TRADING LTD,ltd,active,2023-06-01,"71-75 Shelton Street, London, WC2H 9JQ",,64304|64991|64999|66120,Financial Intermediation|Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14348520,REALISTIC SECURITY SOLUTIONS LTD,ltd,active,2022-09-09,"10 Dean Road, Manchester, M18 7JF",,66120|80100|80200|84300,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15769182,AMK INVESTING LTD,ltd,active,2024-06-10,"Flat 1 Burton Court 2 Constable Close, London, N11 3GW",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11066252,MATUS CCCP LTD,ltd,active,2017-11-15,"Connect Business Village 24 Derby Road, Liverpool, L5 9PR",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,05440610,TEST VALLEY FINANCIAL MANAGEMENT LIMITED,ltd,active,2005-04-29,"3 Silvertrees Holly Hill Lane, Southampton, SO31 7NB",,65110|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14207929,NO FEAR K9 SECURITY LTD,ltd,active,2022-07-01,"103 Empress Avenue, London, E12 5SA",,64991|66120|80100|80200,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14194165,SPREAD BY CHESED LTD,ltd,active,2022-06-24,"37 Kirkham Apartments 43 Linton Road, Barking, IG11 8FT",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,07276299,BESPOKE ASSET FINANCE LTD,ltd,active,2010-06-07,"15 Woodale Close, Warrington, WA5 3GL",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15798325,ELEVATE.NET SOLUTIONS LIMITED,ltd,active,2024-06-24,"286 Ashfield Road, Rochdale, OL11 1QP",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14426127,THEIA HOLDINGS 2 LIMITED,ltd,active,2022-10-18,"Level 6 Duo, London, EC2M 4RB",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,09253794,MAC PROPERTY FUNDING LTD,ltd,active,2014-10-08,"Worthy House, Basingstoke, RG21 8UQ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12864917,OPTIMUM SECURITY & RISK MANAGEMENT LIMITED,ltd,active,2020-09-08,"256 Walsall Road, Cannock, WS11 0JL",,66120|80100|84300,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12618800,FORCE TRADING LIMITED,ltd,active,2020-05-22,"2nd Floor 168 Shoreditch High Street, London, E1 6RA",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13478014,CRYSTALLINE ANALYTICS LIMITED,ltd,active,2021-06-25,"7 Bell Yard, London, WC2A 2JR",,58190|66120|82990,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,00827982,INSIGHT INVESTMENT MANAGEMENT (GLOBAL) LIMITED,ltd,active,1964-11-19,"160 Queen Victoria Street, London, EC4V 4LA",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,08221438,TRADING COAST LIMITED,ltd,active,2012-09-20,"207 Sandbanks Road, Poole, BH14 8EJ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11373575,CAT CAPITAL LIMITED,ltd,active,2018-05-21,"20-22 Wenlock Road, London, N1 7GU",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12804243,OCEIX LIMITED,ltd,active,2020-08-11,"85 Great Portland Street, London, W1W 7LT",,66120|70221|70229,Security and commodity contracts brokerage|Financial Management|Management consultancy activities,True,25,2026-04-08
+SIC:66120,14906641,MAGIS CAPITAL HOLDING LTD,ltd,active,2023-05-31,"20 Wenlock Road, London, N1 7GU",,46900|66120|66300|70221,Security and commodity contracts brokerage|Fund management activities|Financial Management,True,25,2026-04-08
+SIC:66120,04768651,PARRETT TRADING LIMITED,ltd,active,2003-05-18,"Acorn House, Acton, W3 6AY",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14001442,HILLSIDE PASSIVE INCOME LTD,ltd,active,2022-03-24,"24 Parry Road, London, SE25 6RJ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14910109,NIGHT SECURITY LIMITED,ltd,active,2023-06-02,"85 Belmont Park Road, London, E10 6AX",,64991|66120|80100,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,08636362,KINGDOM FUTURES LIMITED,ltd,active,2013-08-02,"Innovation Centre Highfield Drive, St. Leonards-On-Sea, TN38 9UH",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,10775063,SCOTT PINNER ASSOCIATES LTD,ltd,active,2017-05-17,"7 Lindsey Way, Gidea Park, RM11 2ED",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13608492,ZIENERGI RESOURCES LTD,ltd,active,2021-09-08,"15 Queen Square, Leeds, LS2 8AJ",,52243|66120|70229|71122,Security and commodity contracts brokerage|Management consultancy activities,True,25,2026-04-08
+SIC:66120,14837047,METATRON'S CUBE LTD,ltd,active,2023-05-01,"Belmont Suite, Paragon Business Park, Bolton, BL6 6HG",,62020|66120|74909,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15548608,ONSLOW CAPITAL MANAGEMENT LTD,ltd,active,2024-03-08,"23 Neville Street, London, SW7 3AS",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14304243,STONEHAGE FLEMING DEALING AND TREASURY SERVICES (UK) LIMITED,ltd,active,2022-08-18,"6 St James's Square, London, SW1Y 4JU",,66110|66120|70221,Security and commodity contracts brokerage|Financial Management,True,25,2026-04-08
+SIC:66120,SC594097,H.E. FIRE SOLUTIONS LTD,ltd,active,2018-04-11,"1 Kilsyth Lennox Golf Club Tak-Ma-Doon Road, Glasgow, G65 0RS",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12808909,CASAFEX BUREAU DE CHANGE LIMITED,private-limited-guarant-nsc,active,2020-08-12,"20 Keel Close, Barking, IG11 0XR",,66120|66190,Security and commodity contracts brokerage|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66120,14132246,KCALB LTD,ltd,active,2022-05-25,"Balfour House 741 High Road, London, N12 0BP",,66120|66190,Security and commodity contracts brokerage|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66120,11519618,MYK-J SECURITY & BUILDING SERVICES LTD,ltd,active,2018-08-15,"Grosvenor House, Congleton, CW12 4AB",,45320|47910|66120|87200,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,03759100,LONDON & YORK LIMITED,ltd,active,1999-04-26,"Vanbrugh House, Doncaster, DN5 7EL",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13858616,KUNSOLTS LIMITED,ltd,active,2022-01-19,"26 Schoolfield Way, West Thurrock, RM20 3AF",,66120|86900,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12673615,NOBLE FUTURE LAND INVESTMENT LTD,ltd,active,2020-06-16,"2nd Floor College House, Ruislip, HA4 7AE",,64921|66110|66120|66190,Security and commodity contracts brokerage|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66120,06672742,DIAMOND INTERNATIONAL OVERSEAS LTD,ltd,active,2008-08-14,"1 Hutton Close, Bishop Auckland, DL14 6XG",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15745067,ACLG LIMITED,ltd,active,2024-05-28,"15a Chapel Place, Tunbridge Wells, TN1 1YQ",,66120|73110,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13087322,RRRJ ENERGY LTD,ltd,active,2020-12-17,"290a Keighley Road, Bradford, BD9 4LH",,66120|70229,Security and commodity contracts brokerage|Management consultancy activities,True,25,2026-04-08
+SIC:66120,03641073,WIESCO LIMITED,ltd,active,1998-09-24,"5th Floor 70 Gracechurch Street, London, EC3V 0XL",,65120|66120|66290,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14928321,CUBATOR LTD,ltd,active,2023-06-12,"71-75 Shelton Street, London, WC2H 9JQ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,06707165,CPT MARKETS UK LIMITED,ltd,active,2008-09-25,"Level 7 One Canada Square, London, E14 5AA",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,03846779,FOXLANE LIMITED,ltd,active,1999-09-17,"5th Floor 70 Gracechurch Street, London, EC3V 0XL",,65120|66120|66290,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13375434,EIGHT R LTD,ltd,active,2021-05-04,"62 Whitehorse Lane, London, SE25 6RQ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12120169,BANQUE DE PARIS LTD,ltd,active,2019-07-24,"55 Listerhills Science Park, Bradford, BD7 1HR",,64992|64999|66120,Financial Intermediation|Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12587019,PANORAMIC CAPITAL LIMITED,ltd,active,2020-05-05,"15-17 Church Street, Stourbridge, DY8 1LU",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12151206,UK GUARDS SECURITY LTD,ltd,active,2019-08-12,"1 Star Close, Tipton, DY4 7LP",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,02849777,PACIFIC CAPITAL PARTNERS LIMITED,ltd,active,1993-09-01,"74 Wigmore Street, London, W1U 2SQ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11987251,NAVEEN FOODS LTD,ltd,active,2019-05-09,"119 Francis Avenue, Ilford, IG1 1TT",,66120|80100,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,07871594,KATMAI LTD,ltd,active,2011-12-05,"124 City Road, London, EC1V 2NX",,58190|64999|66120,Financial Intermediation|Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,07490132,JAS (INNOVATIONS) LIMITED,ltd,active,2011-01-12,"5 Water End Close, Borehamwood, WD6 4PW",,66120|70229,Security and commodity contracts brokerage|Management consultancy activities,True,25,2026-04-08
+SIC:66120,13987651,SHL FINANCE LTD,ltd,active,2022-03-18,"Jed 1002514 Skyport Drive, West Drayton, UB7 0LB",,64999|66110|66120|66190,Financial Intermediation|Security and commodity contracts brokerage|Activities auxiliary to financial services,True,25,2026-04-08
+SIC:66120,10012648,SHEERSTOCK PARK LTD,ltd,active,2016-02-18,"C/O Accountant Field Cottage, Robertsbridge, TN32 5UY",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11888477,AA & LOGISTICS LTD,ltd,active,2019-03-18,"52 Leicester Road, Luton, LU4 8SJ",,53100|56290|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15762782,VISION FILED LTD,ltd,active,2024-06-05,"128 City Road, London, EC1V 2NX",,58110|66110|66120|66300,Security and commodity contracts brokerage|Fund management activities,True,25,2026-04-08
+SIC:66120,02719607,CGS INTERNATIONAL SECURITIES UK LTD.,ltd,active,1992-06-02,"53 New Broad Street, London, EC2M 1JJ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,12628838,HPBF HOLDINGS LTD,ltd,active,2020-05-28,"Basset Down House, Swindon, SN4 9QP",,66120|66300,Security and commodity contracts brokerage|Fund management activities,True,25,2026-04-08
+SIC:66120,14926969,MORNING EXCHANGE LTD,ltd,active,2023-06-09,"36 Scotts Road, Bromley, BR1 3QD",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,03616474,B W FINANCIAL SERVICES LIMITED,ltd,active,1998-08-17,"The Mills, Canal Street, Derbyshire, DE1 2RJ",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:70229,14104143,CAPE CONSULTING LIMITED,ltd,active,2022-05-12,"Kinaruss Penn Road, Gerrards Cross, SL9 9SF",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,04226864,MARKETWISE STRATEGIES LIMITED,ltd,active,2001-06-01,"7-15 Pink Lane, Newcastle Upon Tyne, NE1 5DW",,70229|73200,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC536676,C GROWTH LTD,ltd,active,2016-05-31,"11 Thistle Place, Aberdeen, AB10 1UZ",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,13300231,PAISLEY FALCON LTD,ltd,active,2021-03-29,"435 Stratford Road, Solihull, B90 4AA",,41201|64304|70229|98000,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC534739,HECO LTD,ltd,active,2016-05-06,"22/5, 25 Dougrie Place, Glasgow, G45 9AT",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,SC520315,IKRAJ SANGHA LTD,ltd,active,2015-11-13,"26 Saltmarsh Dr, Glasgow, G66 3NR",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,13106211,ISOROBOT LIMITED,ltd,active,2020-12-31,"20 Syke Lane, Leeds, LS14 3BQ",,62012|62020|70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,NI654847,KH FACILITIES & LOGISTICS LTD,ltd,active,2018-08-07,"121 Tandragee Road, Newry, BT35 6LW",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:70229,07055295,FIMTRAC F&I AND COMPLIANCE LIMITED,ltd,active,2009-10-23,"Level 0, Unit 4 Greenways Business Park, Chippenham, SN15 1BN",,70229,Management consultancy activities,True,25,2026-04-08
+SIC:66120,03634752,SHELL TRADING INTERNATIONAL LIMITED,ltd,active,1998-09-14,"Shell Centre, London, SE1 7NA",,46711|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,14318839,VELES INDIA LIMITED,ltd,active,2022-08-25,"11 Lime Tree Walk, Sevenoaks, TN13 1YH",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,11889059,GRUBER SERVICES LIMITED,ltd,active,2019-03-18,"85 Great Portland Street, London, W1W 7LT",,38320|46900|62090|66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,04212951,BPIM LIMITED,ltd,active,2001-05-09,"727-729 High Road, London, N12 0BP",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,15721628,CAPRIDIS LTD,ltd,active,2024-05-15,"2 Macneice Drive, Marlborough,, SN8 1TR",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,03049880,RUSSELL INVESTMENTS IMPLEMENTATION SERVICES LIMITED,ltd,active,1995-04-26,"Rex House, London, SW1Y 4PE",,66120,Security and commodity contracts brokerage,True,25,2026-04-08
+SIC:66120,13445518,NEXT FX LIMITED,ltd,active,2021-06-08,"27 Old Gloucester Street, London, WC1N 3AX",,64304|66110|66120|66300,Security and commodity contracts brokerage|Fund management activities,True,25,2026-04-08
