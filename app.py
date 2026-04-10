@@ -86,18 +86,18 @@ def load_investor_data(path: str):
 
 
 def load_news_data(filename: str = ""):
-    """Lädt eine CSV aus data/. Ohne Angabe: neueste news_export_*.csv."""
+    """Lädt eine CSV aus data/. Ohne Angabe: neueste news_YYYYMMDD_HHMM.csv."""
     data_dir = os.path.join(BASE_DIR, "data")
     if filename:
         path = os.path.join(data_dir, filename)
         if os.path.exists(path):
             return pd.read_csv(path)
         return None
-    # Automatisch neueste news_export_*.csv wählen
+    # Automatisch neueste news_*.csv wählen
     if os.path.isdir(data_dir):
         candidates = sorted([
             f for f in os.listdir(data_dir)
-            if f.startswith("news_export") and f.endswith(".csv")
+            if f.startswith("news_") and f.endswith(".csv")
         ])
         if candidates:
             return pd.read_csv(os.path.join(data_dir, candidates[-1]))
@@ -116,7 +116,7 @@ def render_investor_module():
     investor_filename = st.sidebar.text_input(
         "Dateiname der Leads-CSV",
         value="leads.csv",
-        help="Nur der Dateiname – die Datei muss im Ordner /data liegen."
+        help="Schema: leads_YYYYMMDD_HHMM.csv – Datei muss im Ordner /data liegen."
     )
     investor_path = os.path.join(BASE_DIR, "data", investor_filename)
     min_score = st.sidebar.slider("Minimaler Relevanz-Score", 0, 100, 50)
@@ -222,11 +222,11 @@ def render_news_module():
     st.markdown('<div class="module-header"><h2>📰 Marktsignale aus News</h2></div>', unsafe_allow_html=True)
     st.caption("Aktuelle Marktsignale aus News-Quellen")
 
-    # Sidebar: verfügbare News-CSV-Dateien aus /data auflisten
+    # Sidebar: alle news_*.csv aus /data auflisten
     data_dir = os.path.join(BASE_DIR, "data")
     news_files = sorted([
         f for f in os.listdir(data_dir)
-        if f.endswith(".csv") and f.startswith("news_export")
+        if f.startswith("news_") and f.endswith(".csv")
     ]) if os.path.isdir(data_dir) else []
 
     if news_files:
@@ -235,7 +235,7 @@ def render_news_module():
             "News-Datei auswählen",
             options=news_files,
             index=len(news_files) - 1,  # neueste vorauswählen
-            help="Alle CSV-Dateien aus dem /data Ordner"
+            help="Schema: news_YYYYMMDD_HHMM.csv – Dateien aus dem /data Ordner"
         )
         df = load_news_data(selected_news)
     else:
