@@ -100,7 +100,7 @@ def render_investor_module():
     st.sidebar.header("⚙️ Filter – Investoren")
     investor_path = st.sidebar.text_input(
         "Pfad zur Leads-CSV",
-        value=r"C:\Projekte\DeutscheSilberSE\AppInvestorScreening\data\leads.csv"
+        value=r"data\leads.csv"
     )
     min_score = st.sidebar.slider("Minimaler Relevanz-Score", 0, 100, 50)
 
