@@ -254,7 +254,7 @@ def render_news_module():
             display_df.columns = ["Titel", "Quelle", "Link", "Keywords"][:len(display_df.columns)]
 
             # Suchfeld
-            search = st.text_input("🔍 Tabelle filtern (z. B. Spanien, Investment):")
+            search = st.text_input("🔍 Tabelle filtern nach Keywords oder Strings:")
             if search:
                 mask = display_df.apply(
                     lambda r: r.astype(str).str.contains(search, case=False, na=False).any(), axis=1
