@@ -219,7 +219,7 @@ def render_investor_module():
 # 5. MODUL: MARKET SIGNALS (NEWS)
 # ─────────────────────────────────────────────
 def render_news_module():
-    st.markdown('<div class="module-header"><h2>📰 Marktsignale aus NewsApis (GDELT, Newsapi, Marketeaux) ()</h2></div>', unsafe_allow_html=True)
+    st.markdown('<div class="module-header"><h2>📰 Marktsignale aus internationalen News-Quellen</h2></div>', unsafe_allow_html=True)
     st.caption("Aktuelle Marktsignale aus News-Quellen")
 
     # Sidebar: alle news_*.csv aus /data auflisten
