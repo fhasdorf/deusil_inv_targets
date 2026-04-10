@@ -315,7 +315,7 @@ def render_news_module():
 def main():
     # Header
     st.markdown(
-        '<h1>🥈 Deutsche Silber SE <span class="silver-badge">Intelligence Hub</span></h1>',
+        '<h1>Deutsche Silber SE <span class="silver-badge">Intelligence Hub</span></h1>',
         unsafe_allow_html=True
     )
 
