@@ -8,6 +8,10 @@ import pandas as pd
 import plotly.express as px
 import os
 
+# Basisverzeichnis = Ordner, in dem app.py liegt
+# → funktioniert unabhängig davon, aus welchem Verzeichnis heraus gestartet wird
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # ─────────────────────────────────────────────
 # 1. KONFIGURATION
 # ─────────────────────────────────────────────
@@ -82,10 +86,15 @@ def load_investor_data(path: str):
 
 
 def load_news_data():
-    """Lädt die aktuellste News-CSV-Datei."""
-    file_path = "data/news_export_20260409_1825.csv"
-    if os.path.exists(file_path):
-        return pd.read_csv(file_path)
+    """Lädt die neueste news_export_*.csv aus dem data-Ordner neben app.py."""
+    data_dir = os.path.join(BASE_DIR, "data")
+    if os.path.isdir(data_dir):
+        candidates = sorted([
+            f for f in os.listdir(data_dir)
+            if f.startswith("news_export") and f.endswith(".csv")
+        ])
+        if candidates:
+            return pd.read_csv(os.path.join(data_dir, candidates[-1]))
     return None
 
 
@@ -100,7 +109,7 @@ def render_investor_module():
     st.sidebar.header("⚙️ Filter – Investoren")
     investor_path = st.sidebar.text_input(
         "Pfad zur Leads-CSV",
-        value=r"data\leads.csv"
+        value=os.path.join(BASE_DIR, "data", "leads.csv")
     )
     min_score = st.sidebar.slider("Minimaler Relevanz-Score", 0, 100, 50)
 
@@ -228,7 +237,9 @@ def render_news_module():
                 display_df = display_df[mask]
 
             # Metriken
-            total = len(pd.read_csv("data/news_export_20260409_1825.csv")) if os.path.exists("data/news_export_20260409_1825.csv") else 0
+            # Zähle alle Zeilen der neuesten News-Datei für die Metrik
+            _news_count_df = load_news_data()
+            total = len(_news_count_df) if _news_count_df is not None else 0
             n1, n2 = st.columns(2)
             n1.metric("Signale gesamt", total)
             n2.metric("Angezeigte Signale", len(display_df))
@@ -295,3 +306,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
